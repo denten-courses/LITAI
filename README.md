@@ -1,4 +1,4 @@
-# CLEN 4xxx: Literature in the Age of Artificial Intelligence (LIT-AI)
+# CLEN 4728: Literature in the Age of Artificial Intelligence (LIT-AI)
 
 > with Prof. Dennis Yi Tenen  
 > Department of English and Comparative Literature  
