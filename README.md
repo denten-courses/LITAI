@@ -176,7 +176,7 @@ New York, NY: Grand Central Pub, 1984.
 ### Week 14
 
 - Robertson, Judy, and Judith Good. “Story Creation in Virtual Game Worlds.” *Commun. ACM* 48,
-  no. 1 (January 2005): 61–65. https://doi.org/10.1145/1039539.1039571.
+  no. 1 (January 2005): 61–65.
 - Lee, Jieh-Sheng, and Jieh Hsiang. “Patent Claim Generation by Fine-Tuning OpenAI GPT-2.”
   ArXiv:1907.02052 [Cs, Stat], June 30, 2019.
 - Adelani, David Ifeoluwa, Haotian Mai, Fuming Fang, Huy H. Nguyen, Junichi Yamagishi, and Isao
