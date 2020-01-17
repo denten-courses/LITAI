@@ -3,6 +3,8 @@
 > with Prof. Dennis Yi Tenen  
 > Department of English and Comparative Literature  
 > Spring 2020
+>  M, W 4:10pm to 5:25pm
+>  Hamilton Hall Room 517
 
 In this course we will consider the long history of literature composed with, for, and by
 machines. Our reading list will start with Ramon Llull, the thirteenth-century combinatorial
@@ -26,24 +28,10 @@ up with a moderate reading load, to attend weekly lectures, and to participate i
 discussion, both in person and online. Advanced students will have the option to integrate the
 course's themes with the subject matter of their expertise.
 
-- 25%     Class & Online Participation<sup>†</sup>
-- 25%     Lab Worksheets
-
-AND, for undergraduates:
-
+- 25%     Class & Online (Piazza) Participation
 - 25%     Midterm Exam
 - 25%     Final Exam
-
-OR, for graduate students who exercise the option<sup>††</sup>
-
-- 25%     Midterm Project Proposal (requires an in-person consultation)
-- 25%     Final Project
-
-<sup>†</sup> Concise weekly forum posts responding to the reading, asking
-questions / sharing expertise regarding the lab assignments.
-
-<sup>††</sup> Undergraduates wishing to pursue an independent project still
-have to take the midterm and the final exams.
+- 25%     Project Proposal + Final Project
 
 ## University Policies
 
