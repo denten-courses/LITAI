@@ -1,6 +1,6 @@
 # CLEN 4728: Literature in the Age of Artificial Intelligence (LIT-AI)
 
-> with Prof. Dennis Yi Tenen  
+> with Prof. Dennis Yi Tenen & TAs Patrick Anson and Eduardo Pavez
 > Department of English and Comparative Literature  
 > Spring 2020
 >  M, W 4:10pm to 5:25pm
@@ -29,26 +29,37 @@ discussion, both in person and online. Advanced students will have the option to
 course's themes with the subject matter of their expertise.
 
 - 25%     Class & Online (Piazza) Participation
-- 25%     Midterm Exam
-- 25%     Final Exam
+- 25%     Midterm Exam (March 9th)
+- 25%     Final Exam (Finals Week)
 - 25%     Project Proposal + Final Project
 
-## University Policies
+All written assignments should be submitted to our [Courseworks page][1], where you can also
+find our contact information. Weekly discussion Piazza forum is [here][2].
 
-When in doubt, cite! Plagiarism is insulting to your fellow students, your
-instructors, and to the research community at large. It wastes my time and
-yours, and is, ultimately, not worth the risk. Consult Columbia’s guidelines
-at <http://www.college.columbia.edu/academics/integrity> or ask me for help
-early in the writing process.
+[1]: https://courseworks2.columbia.edu/courses/95253
+[2]: https://piazza.com/configure-classes/spring2020/engl4728
+
+## Class and University Policies
+
+The usage of electronic devices is strongly discouraged in the classroom.
+
+When in doubt, cite! Plagiarism is insulting to your fellow students, your instructors, and to
+the research community at large. It wastes my time and yours, and is, ultimately, not worth the
+risk. Consult Columbia’s guidelines at <http://www.college.columbia.edu/academics/integrity> or
+ask me for help early in the writing process.
 
 ## Provisional Schedule & Reading List
 
 ### Week 1
 
-- Aristotle's *Poetics* (335 BCE), Ch. XXI, XXII, XXV.
-- Aristotle's *Rhetoric* (367-347 BCE), Book III: Ch. 2, 3, 4, 10.
-- Introduction to DeLanda, Manuel. *War in the Age of Intelligent Machines*. New York, NY: Zone
-  Books, 2003.
+- Aristotle's [*Poetics*][101] (335 BCE), pages 85-132 in the linked edition.
+- Aristotle's [*Rhetoric*][102] (367-347 BCE), Book III.
+- Introduction (Pages 1--10) to DeLanda, Manuel. [*War in the Age of Intelligent
+  Machines*][103]. New York, NY: Zone Books, 2003.
+
+[101]: https://courseworks2.columbia.edu/files/6859438/download?download_frd=1
+[102]: https://courseworks2.columbia.edu/files/6859640/download?download_frd=1 
+[103]: https://courseworks2.columbia.edu/files/6859868/download?download_frd=1
 
 ### Week 2
 
