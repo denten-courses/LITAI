@@ -65,8 +65,10 @@ ask me for help early in the writing process.
 
 - Readings from Llull, Ramon. *Selected Works of Ramón Llull (1232-1316)*. Princeton, N.J.:
   Princeton University Press, c1985.
-- Selections from Truitt, E. R. *Medieval Robots: Mechanism, Magic, Nature, and Art*.
+- Selections from Truitt, E. R. [*Medieval Robots: Mechanism, Magic, Nature, and Art*] [202] .
   Philadelphia, PA: University of Pennsylvania Press, 2016.
+  
+  [202]: https://courseworks2.columbia.edu/files/6860966/download?download_frd=1
 
 ### Week 3
 
@@ -78,10 +80,13 @@ ask me for help early in the writing process.
 
 ### Week 4
 
-- Selections from *Gulliver's Travels* (1726) by Jonathan Swift.
+- Selections from [*Gulliver's Travels*] [401] (1726) by Jonathan Swift.
 - Colombo, Alice. “Rewriting Gulliver’s Travels under the Influence of J. J. Grandville’s
   Illustrations.” Word & Image 30, no. 4 (October 2, 2014): 401–15.
-- "The Book of the Machines" chapters in Samuel Butler's *Erewhon* (1872).
+- "The Book of the Machines" chapters in Samuel Butler's [*Erewhon*] [403] (1872).
+
+[401]: https://courseworks2.columbia.edu/files/6861048/download?download_frd=1
+[403]: https://courseworks2.columbia.edu/files/6860753/download?download_frd=1
 
 ### Week 5
 
