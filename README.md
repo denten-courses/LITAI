@@ -52,21 +52,22 @@ ask me for help early in the writing process.
 
 ### Week 1
 
-- Aristotle's [*Poetics*][101] (335 BCE), pages 85-132 in the linked edition.
-- Aristotle's [*Rhetoric*][102] (367-347 BCE), Book III.
 - Introduction (Pages 1--10) to DeLanda, Manuel. [*War in the Age of Intelligent
-  Machines*][103]. New York, NY: Zone Books, 2003.
+  Machines*][101]. New York, NY: Zone Books, 2003.
+- Aristotle's [*Poetics*][102] (335 BCE), pages 85-132 in the linked edition.
 
-[101]: https://courseworks2.columbia.edu/files/6859438/download?download_frd=1
-[102]: https://courseworks2.columbia.edu/files/6859640/download?download_frd=1 
-[103]: https://courseworks2.columbia.edu/files/6859868/download?download_frd=1
+[101]: https://courseworks2.columbia.edu/files/6859868/download?download_frd=1
+[102]: https://courseworks2.columbia.edu/files/6859438/download?download_frd=1
 
 ### Week 2
 
+- Aristotle's [*Rhetoric*][102] (367-347 BCE), Book III.
 - Readings from Llull, Ramon. *Selected Works of Ramón Llull (1232-1316)*. Princeton, N.J.:
   Princeton University Press, c1985.
 - Selections from Truitt, E. R. *Medieval Robots: Mechanism, Magic, Nature, and Art*.
   Philadelphia, PA: University of Pennsylvania Press, 2016.
+
+[201]: https://courseworks2.columbia.edu/files/6859640/download?download_frd=1 
 
 ### Week 3
 
