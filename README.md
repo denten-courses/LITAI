@@ -52,7 +52,7 @@ ask me for help early in the writing process.
 
 ### Week 1
 
-- Introduction (Pages 1--10) to DeLanda, Manuel. [*War in the Age of Intelligent
+- Introduction (Pages 1-10) to DeLanda, Manuel. [*War in the Age of Intelligent
   Machines*][101]. New York, NY: Zone Books, 2003.
 - Aristotle's [*Poetics*][102] (335 BCE), pages 85-132 in the linked edition.
 
