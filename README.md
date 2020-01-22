@@ -1,10 +1,10 @@
 # CLEN 4728: Literature in the Age of Artificial Intelligence (LIT-AI)
 
-> with Prof. Dennis Yi Tenen & TAs Patrick Anson and Eduardo Pavez
+> with Prof. Dennis Yi Tenen & TAs Patrick Anson and Eduardo Pavez  
 > Department of English and Comparative Literature  
-> Spring 2020
->  M, W 4:10pm to 5:25pm
->  Hamilton Hall Room 517
+> Spring 2020  
+>  M, W 4:10pm to 5:25pm  
+>  Hamilton Hall Room 517  
 
 In this course we will consider the long history of literature composed with, for, and by
 machines. Our reading list will start with Ramon Llull, the thirteenth-century combinatorial
