@@ -50,7 +50,11 @@ ask me for help early in the writing process.
 
 ## Provisional Schedule & Reading List
 
-### Week 1
+### Week 0
+
+Introductions. Structure of the class.
+
+### Week 1 ( Jan 27 & 29th)
 
 - Introduction (Pages 1-10) to DeLanda, Manuel. [*War in the Age of Intelligent
   Machines*][101]. New York, NY: Zone Books, 2003.
