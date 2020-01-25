@@ -66,12 +66,14 @@ Introductions. Structure of the class.
 ### Week 2
 
 - Aristotle's [*Rhetoric*][201] (367-347 BCE), Book III.
-- "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, pages 569-646 and in the "Principles of Medicine" pages 1119-1130 and 1199-1214.
-- Selections from Truitt, E. R. [*Medieval Robots: Mechanism, Magic, Nature, and Art*][202] .
+- "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][202] and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][203]
+- Selections from Truitt, E. R. [*Medieval Robots: Mechanism, Magic, Nature, and Art*][204] .
   Philadelphia, PA: University of Pennsylvania Press, 2016.
   
   [201]: https://courseworks2.columbia.edu/files/6859640/download?download_frd=1 
-  [202]: ttps://courseworks2.columbia.edu/files/6860966/download?download_frd=1
+  [202]: https://courseworks2.columbia.edu/files/6889329/download?download_frd=1
+  [203]: https://courseworks2.columbia.edu/files/6889330/download?download_frd=1
+  [204]: https://courseworks2.columbia.edu/files/6860966/download?download_frd=1
 
 ### Week 3
 
