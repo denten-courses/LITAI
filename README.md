@@ -36,6 +36,8 @@ course's themes with the subject matter of their expertise.
 All written assignments should be submitted to our [Courseworks page][1], where you can also
 find our contact information. Weekly discussion Piazza forum is [here][2].
 
+Piazza posts are due on Tuesdayds, by midnight. You are encouraged to respond to others as well as to write new posts. In either case, stay close to the text by discussing specific passages. A good response will elicit conversation, ask questions, express puzzlement or illuminate particulary lucid moments of the work.
+
 [1]: https://courseworks2.columbia.edu/courses/95253
 [2]: https://piazza.com/configure-classes/spring2020/engl4728
 
@@ -65,7 +67,7 @@ Introductions. Structure of the class.
 
 ### Week 2
 
-- Aristotle's [*Rhetoric*][201] (367-347 BCE), Book III.
+- Book III in Aristotle's [*Rhetoric*][201] (367-347 BCE).
 - "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][202] and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][203]
 - Selections from Truitt, E. R. [*Medieval Robots: Mechanism, Magic, Nature, and Art*][204] .
   Philadelphia, PA: University of Pennsylvania Press, 2016.
