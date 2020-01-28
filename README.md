@@ -45,7 +45,7 @@ Piazza posts are due on Tuesdayds, by midnight. You are encouraged to respond to
 
 ## Class and University Policies
 
-The usage of electronic devices is strongly discouraged in the classroom.
+**The usage of electronic devices is strongly discouraged in the classroom.**
 
 When in doubt, cite! Plagiarism is insulting to your fellow students, your instructors, and to
 the research community at large. It wastes my time and yours, and is, ultimately, not worth the
