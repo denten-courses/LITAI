@@ -99,12 +99,16 @@ Introductions. Structure of the class.
 
 ### Week 5
 
-- Selections from English, Thomas Dunn. *Skeleton Essays, Or Authorship in Outline: Consisting
+- Selections from English, Thomas Dunn. [*Skeleton Essays, Or Authorship in Outline: Consisting
   of Condensed Treatises on Popular Subjects and Directions How to Enlarge Them Into Essays, Or
-Expand Them Into Lectures*. Dick & Fitzgerald, 1890.
-- "Introduction" in Brewster, William Tenney. *Specimens of Narration*. H. Holt, 1895.
-- Selections from Freytag, Gustav. *Technique of the Drama: An Exposition of Dramatic
-  Composition and Art*. Chicago, IL: Scott, Foresman and Company, 1900.
+Expand Them Into Lectures*] [501]. Dick & Fitzgerald, 1890.
+- "Introduction" in Brewster, William Tenney. [*Specimens of Narration*] [502]. H. Holt, 1895.
+- Selections from Freytag, Gustav. [*Technique of the Drama: An Exposition of Dramatic
+  Composition and Art*] [503]. Chicago, IL: Scott, Foresman and Company, 1900.
+  
+  [501]: https://courseworks2.columbia.edu/files/6915788/download?download_frd=1
+  [502]: https://courseworks2.columbia.edu/files/6915791/download?download_frd=1
+  [503]: https://courseworks2.columbia.edu/files/6915787/download?download_frd=1
 
 ### Week 6
 
