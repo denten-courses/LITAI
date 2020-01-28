@@ -112,25 +112,33 @@ Expand Them Into Lectures*][501]. Dick & Fitzgerald, 1890.
 
 ### Week 6
 
-- Polti, Georges, and Lucille Ray. *The Thirty-Six Dramatic Situations*. Ridgewood, NJ: Editor
+- Polti, Georges, and Lucille Ray. [*The Thirty-Six Dramatic Situations*][601]. Ridgewood, NJ: Editor
   Company, 1916.
-- Polti, Georges. *The Art of Inventing Characters*. Translated by Lucille Ray. Franklin, OH:
+- Polti, Georges. [*The Art of Inventing Characters*][602]. Translated by Lucille Ray. Franklin, OH:
   James Knapp Reeve, 1922.
-- Introduction and Chapter One in Propp, Vladimir. *Morphology of the Folktale*. Translated by
+- Introduction and Chapter One in Propp, Vladimir. [*Morphology of the Folktale*][603]. Translated by
   Laurence Scott. Austin, TX: American Folklore Society, University of Texas Press, 1968.
+  
+  [601]: https://courseworks2.columbia.edu/files/6915933/download?download_frd=1
+  [602]: https://courseworks2.columbia.edu/files/6915897/download?download_frd=1
+  [603]: https://courseworks2.columbia.edu/files/6915957/download?download_frd=1
+  
 
 ### Week 7
 
-- "Introduction" in Fansler, Harriott Ely. *Types of Prose Narratives: A Text-Book for the
-  Story Writer*. Chicago, IL: Row, Peterson & Company, 1911.
+- "Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
+  Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.
 - Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
   Angeles, CA: The Feature Photodrama Company, 1919.
-- Phillips, Henry Albert. *The Universal Plot Catalog: An Examination of the Elements of Plot
+- Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
   Material and Construction, Combined with a Complete Index and a Progressive Category in Which
-the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*.
+the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][703].
 Springfield, MA: The Home Correspondence School, 1920.
 - Wharton, Edith. “The Writing of Fiction: Telling a Short Story.” Scribners, April 1925,
   344–49.
+  
+  [701]: https://courseworks2.columbia.edu/files/6916010/download?download_frd=1
+  [703]: https://courseworks2.columbia.edu/files/6916012/download?download_frd=1
 
 ### Week 8
 
