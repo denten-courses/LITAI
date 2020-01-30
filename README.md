@@ -81,8 +81,6 @@ Introductions. Structure of the class.
 
 ### Week 3
 
-- Selections from Bacon, Francis. [*Of the Dignity and Advancement of Learning*][302]. Edited by James
-  Spedding. Vol. IX. The Works of Francis Bacon. Taggards and Thomson, 1864 [circa 1605].
 - "[On the Combinatorial Art][304]" (1666) by Gottfried Leibniz.
 - "[Love-Kiss XLI][303]" (1671) by Quirinus Kuhlmann.
 - ~~Selections from Bright, Timothe. [*Characterie: An Arte of Shorts, Swifte and Secrete Writing by Character*][301],  I. Windet, 1588.~~
