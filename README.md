@@ -81,14 +81,17 @@ Introductions. Structure of the class.
 
 ### Week 3
 
-- Selections from Bright, Timothe. [*Characterie: An Arte of Shorts, Swifte and Secrete Writing
-  by Character*][301],  I. Windet, 1588.
 - Selections from Bacon, Francis. [*Of the Dignity and Advancement of Learning*][302]. Edited by James
   Spedding. Vol. IX. The Works of Francis Bacon. Taggards and Thomson, 1864 [circa 1605].
-- "On the Combinatorial Art" (1666) by Gottfried Leibniz.
+- "[On the Combinatorial Art][304]" (1666) by Gottfried Leibniz.
+- "[Love-Kiss XLI][303]" (1671) by Quirinus Kuhlmann.
+- ~~Selections from Bright, Timothe. [*Characterie: An Arte of Shorts, Swifte and Secrete Writing by Character*][301],  I. Windet, 1588.~~
+-
 
 [301]: http://gateway.proquest.com.ezproxy.cul.columbia.edu/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:image:11523
 [302]: https://courseworks2.columbia.edu/files/6929616/download?download_frd=1
+[303]: https://www.jstor.org/stable/25706521
+[304]: https://courseworks2.columbia.edu/files/6940713/download?download_frd=1
 
 ### Week 4
 
