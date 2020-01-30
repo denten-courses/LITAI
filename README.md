@@ -71,8 +71,8 @@ Introductions. Structure of the class.
 
 - Book III in Aristotle's [*Rhetoric*][201] (367-347 BCE).
 - "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][202] and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][203]
-- Chapter 2, pages 40-69 in Truitt, E. R. [*Medieval Robots: Mechanism, Magic, Nature, and Art*][204] .
-  Philadelphia, PA: University of Pennsylvania Press, 2016.
+- For background browse Chapter 2, pages 40-69 in Truitt, E. R. [*Medieval Robots: Mechanism, Magic, Nature, and Art*][204] .
+  Philadelphia, PA: University of Pennsylvania Press, 2016. I suggest you do not write your weekly response post on this text.
   
   [201]: https://courseworks2.columbia.edu/files/6859640/download?download_frd=1 
   [202]: https://courseworks2.columbia.edu/files/6889329/download?download_frd=1
