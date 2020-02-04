@@ -100,11 +100,12 @@ By "explore" I mean try to understand the work as a system, dipping into the tex
 ### Week 4
 
 - Selections from [*Gulliver's Travels*][401] (1726) by Jonathan Swift.
-- Colombo, Alice. “Rewriting Gulliver’s Travels under the Influence of J. J. Grandville’s
-  Illustrations.” Word & Image 30, no. 4 (October 2, 2014): 401–15.
+- Colombo, Alice. “[Rewriting Gulliver’s Travels under the Influence of J. J. Grandville’s
+  Illustrations.][402]” Word & Image 30, no. 4 (October 2, 2014): 401–15.
 - "The Book of the Machines" chapters in Samuel Butler's [*Erewhon*][403] (1872).
 
 [401]: https://courseworks2.columbia.edu/files/6861048/download?download_frd=1
+[402]: https://www.tandfonline.com/doi/full/10.1080/02666286.2014.954809
 [403]: https://courseworks2.columbia.edu/files/6860753/download?download_frd=1
 
 ### Week 5
