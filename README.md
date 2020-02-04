@@ -72,14 +72,17 @@ Introductions. Structure of the class.
 - Book III in Aristotle's [*Rhetoric*][201] (367-347 BCE).
 - Explore "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][202] and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][203]
 - For background browse Chapter 2, pages 40-69 in Truitt, E. R. [*Medieval Robots: Mechanism, Magic, Nature, and Art*][204] .
-  Philadelphia, PA: University of Pennsylvania Press, 2016. I suggest you do not write your weekly response post on this text.
+  Philadelphia, PA: University of Pennsylvania Press, 2016. I suggest you do not write your weekly response post on this text.  
+  
+By "explore" I mean try to understand the work as a system, dipping into the text for close reading or browsing where appropriate.
+  
   
   [201]: https://courseworks2.columbia.edu/files/6859640/download?download_frd=1 
   [202]: https://courseworks2.columbia.edu/files/6889329/download?download_frd=1
   [203]: https://courseworks2.columbia.edu/files/6889330/download?download_frd=1
   [204]: https://courseworks2.columbia.edu/files/6860966/download?download_frd=1
   
-By "explore" I mean try to understand the work as a system, dipping into the text for close reading or browsing where appropriate.
+
 
 ### Week 3
 
