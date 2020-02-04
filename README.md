@@ -70,7 +70,7 @@ Introductions. Structure of the class.
 ### Week 2
 
 - Book III in Aristotle's [*Rhetoric*][201] (367-347 BCE).
-- "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][202] and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][203]
+- Explore "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][202] and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][203]
 - For background browse Chapter 2, pages 40-69 in Truitt, E. R. [*Medieval Robots: Mechanism, Magic, Nature, and Art*][204] .
   Philadelphia, PA: University of Pennsylvania Press, 2016. I suggest you do not write your weekly response post on this text.
   
@@ -78,13 +78,15 @@ Introductions. Structure of the class.
   [202]: https://courseworks2.columbia.edu/files/6889329/download?download_frd=1
   [203]: https://courseworks2.columbia.edu/files/6889330/download?download_frd=1
   [204]: https://courseworks2.columbia.edu/files/6860966/download?download_frd=1
+  
+  By "explore" I mean try to understand the work as a system, dipping into the text for close reading or browsing where appropriate.
 
 ### Week 3
 
 - "[On the Combinatorial Art][304]" (1666) by Gottfried Leibniz.
 - "[Love-Kiss XLI][303]" (1671) by Quirinus Kuhlmann.
 - ~~Selections from Bright, Timothe. [*Characterie: An Arte of Shorts, Swifte and Secrete Writing by Character*][301],  I. Windet, 1588.~~
--
+- Explore An Essay Towards a Real Character, and a Philosophical Language (London, 1668) by John Wilkens, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages 1-5), and Part 4 Chapter 1-2 (pages 385-413). By 
 
 [301]: http://gateway.proquest.com.ezproxy.cul.columbia.edu/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:image:11523
 [302]: https://courseworks2.columbia.edu/files/6929616/download?download_frd=1
