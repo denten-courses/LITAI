@@ -101,14 +101,19 @@ By "explore" I mean try to understand the work as a system, dipping into the tex
 
 ### Week 4
 
+
+- "[Sketch of The Analytical Engine Invented by Charles Babbage][404] By L. F. MENABREA of Turin,
+  Officer of the Military Engineers from the Bibliothèque Universelle de Genève, October, 1842,
+No. 82 With notes upon the Memoir by the Translator Ada Augusta, Countess of Lovelace.
 - Selections from [*Gulliver's Travels*][401] (1726) by Jonathan Swift.
 - Colombo, Alice. “[Rewriting Gulliver’s Travels under the Influence of J. J. Grandville’s
   Illustrations.][402]” Word & Image 30, no. 4 (October 2, 2014): 401–15.
-- "The Book of the Machines" chapters in Samuel Butler's [*Erewhon*][403] (1872).
+- "The Book of the Machines" chapters (ch. 23-25) in Samuel Butler's [*Erewhon*][403] (1872).
 
 [401]: https://courseworks2.columbia.edu/files/6861048/download?download_frd=1
 [402]: https://www.tandfonline.com/doi/full/10.1080/02666286.2014.954809
 [403]: https://courseworks2.columbia.edu/files/6860753/download?download_frd=1
+[404]: https://courseworks2.columbia.edu/courses/95253/files?preview=7036928
 
 ### Week 5
 
