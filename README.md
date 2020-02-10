@@ -154,9 +154,14 @@ the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classifie
 Springfield, MA: The Home Correspondence School, 1920.
 - Wharton, Edith. “The Writing of Fiction: Telling a Short Story.” Scribners, April 1925,
   344–49.
+- Markov, A. A. “[An Example of Statistical Investigation of the Text Eugene Onegin Concerning
+  the Connection of Samples in Chains][705].” Science in Context 19, no. 4 (December 2006
+[1914]): 591–600.
+
   
   [701]: https://courseworks2.columbia.edu/files/6916010/download?download_frd=1
   [703]: https://courseworks2.columbia.edu/files/6916012/download?download_frd=1
+  [705]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-core/content/view/EA1E005FA0BC4522399A4E9DA0304862/S0269889706001074a.pdf/an_example_of_statistical_investigation_of_the_text_eugene_onegin_concerning_the_connection_of_samples_in_chains.pdf
 
 ### Week 8
 
