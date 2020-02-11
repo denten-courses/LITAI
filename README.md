@@ -88,9 +88,12 @@ By "explore" I mean try to understand the work as a system, dipping into the tex
 
 - "[On the Combinatorial Art][304]" (1666) by Gottfried Leibniz.
 - "[Love-Kiss XLI][303]" (1671) by Quirinus Kuhlmann.
-- ~~Selections from Bright, Timothe. [*Characterie: An Arte of Shorts, Swifte and Secrete Writing by Character*][301],  I. Windet, 1588.~~
-- Explore [*An Essay Towards a Real Character, and a Philosophical Language*][305] (London, 1668) by John Wilkens, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages 1-5), and Part 4 Chapter 1-2 (pages 385-413).
-- [Garden and Labyrinth of Time][306] (1988) by Gerald Gillespie
+- ~~Selections from Bright, Timothe. [*Characterie: An Arte of Shorts, Swifte and Secrete
+  Writing by Character*][301],  I. Windet, 1588.~~
+- Explore [*An Essay Towards a Real Character, and a Philosophical Language*][305] (London,
+  1668) by John Wilkens, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages
+1-5), and Part 4 Chapter 1-2 (pages 385-413).
+- [Garden and Labyrinth of Time][306] (1988) by Gerald Gillespie.
 
 [301]: http://gateway.proquest.com.ezproxy.cul.columbia.edu/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:image:11523
 [302]: https://courseworks2.columbia.edu/files/6929616/download?download_frd=1
@@ -105,10 +108,10 @@ By "explore" I mean try to understand the work as a system, dipping into the tex
   (pages 229-235), and "Letter to John Fredrick, Duke of Brunswick-Hanover" (pages 259-263) in
 [*Philosophical Papers and Letters*][405] by Leibniz.
 - "The Book of the Machines" chapters (ch. 23-25) in Samuel Butler's [*Erewhon*][403] (1872).
-- Explore "[Sketch of The Analytical Engine Invented by Charles Babbage][404] By L. F. MENABREA
+- Explore "[Sketch of The Analytical Engine Invented by Charles Babbage By L. F. MENABREA
   of Turin, Officer of the Military Engineers from the Bibliothèque Universelle de Genève,
 October, 1842, No. 82 With notes upon the Memoir by the Translator Ada Augusta, Countess of
-Lovelace.
+Lovelace][404]."
 
 [401]: https://courseworks2.columbia.edu/files/6861048/download?download_frd=1
 [402]: https://www.tandfonline.com/doi/full/10.1080/02666286.2014.954809
