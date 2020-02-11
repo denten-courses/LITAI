@@ -103,7 +103,7 @@ By "explore" I mean try to understand the work as a system, dipping into the tex
 
 - "On the Universal Characteristic" (pages 221-229), "On Universal Synthesis and Analysis"
   (pages 229-235), and "Letter to John Fredrick, Duke of Brunswick-Hanover" (pages 259-263) in
-[*Philosophical Papers and Letter*][405] by Leibniz.
+[*Philosophical Papers and Letters*][405] by Leibniz.
 - "The Book of the Machines" chapters (ch. 23-25) in Samuel Butler's [*Erewhon*][403] (1872).
 - Explore "[Sketch of The Analytical Engine Invented by Charles Babbage][404] By L. F. MENABREA
   of Turin, Officer of the Military Engineers from the Bibliothèque Universelle de Genève,
