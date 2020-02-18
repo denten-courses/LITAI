@@ -91,7 +91,7 @@ By "explore" I mean try to understand the work as a system, dipping into the tex
 - ~~Selections from Bright, Timothe. [*Characterie: An Arte of Shorts, Swifte and Secrete
   Writing by Character*][301],  I. Windet, 1588.~~
 - Explore [*An Essay Towards a Real Character, and a Philosophical Language*][305] (London,
-  1668) by John Wilkens, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages
+  1668) by John Wilkins, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages
 1-5), and Part 4 Chapter 1-2 (pages 385-413).
 - [Garden and Labyrinth of Time][306] (1988) by Gerald Gillespie.
 
