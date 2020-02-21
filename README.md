@@ -164,6 +164,7 @@ Springfield, MA: The Home Correspondence School, 1920.
   the Connection of Samples in Chains][705].” Science in Context 19, no. 4 (December 2006
 [1914]): 591–600.
 
+!!! In class midterm on March 9th.
   
   [701]: https://courseworks2.columbia.edu/files/6916010/download?download_frd=1
   [703]: https://courseworks2.columbia.edu/files/6916012/download?download_frd=1
