@@ -121,13 +121,15 @@ Lovelace][404]."
 
 ### Week 5
 
-- Selections from English, Thomas Dunn. [*Skeleton Essays, Or Authorship in Outline: Consisting
-  of Condensed Treatises on Popular Subjects and Directions How to Enlarge Them Into Essays, Or
-Expand Them Into Lectures*][501]. Dick & Fitzgerald, 1890.
 - "Introduction" in Brewster, William Tenney. [*Specimens of Narration*][502]. H. Holt, 1895.
-- Selections from Freytag, Gustav. [*Technique of the Drama: An Exposition of Dramatic
-  Composition and Art*][503]. Chicago, IL: Scott, Foresman and Company, 1900.
-  
+- "From the [*Technique of the Drama: An Exposition of Dramatic Composition and Art*][503]
+  (1900) by Gustav Freytag read the Introduction (pages 1-8), Chapter II Parts 1&2 (pages
+104-140), and Chapter III Part 1 (pages 210-216).
+- Introduction (pages 7-9) in [*Skeleton Essays, Or Authorship in Outline: Consisting of
+  Condensed Treatises on Popular Subjects and Directions How to Enlarge Them Into Essays, Or
+Expand Them Into Lectures*][501](1890) by Thomas Dunn English. Browse through the essays as
+well to get a sense of what is being suggested.
+
   [501]: https://courseworks2.columbia.edu/files/6915788/download?download_frd=1
   [502]: https://courseworks2.columbia.edu/files/6915791/download?download_frd=1
   [503]: https://courseworks2.columbia.edu/files/6915787/download?download_frd=1
