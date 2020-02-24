@@ -214,35 +214,35 @@ of Computer Sciences, 1974.
 
 - Selections from Reichardt, Jasia. *Cybernetic Serendipity: The Computer and the Arts*.
   London, UK: Studio International, 1970.
-- Van Dijk, Teun A. [“Some Problems of Generative Poetics.”] [1202] *Poetics* 1, no. 2 (January 1,
+- Van Dijk, Teun A. [“Some Problems of Generative Poetics.”][1202] *Poetics* 1, no. 2 (January 1,
   1971): 5–35.
 - Selections from Racter, and William Chamberlain. *The Policeman’s Beard Is Half Constructed:
   Computer Prose and Poetry by Racter---The First Book Ever Written by a Computer. 1st edition.
 New York, NY: Grand Central Pub, 1984.
 
-[1202] https://courseworks2.columbia.edu/files/7156439/download?download_frd=1
+[1202]: https://courseworks2.columbia.edu/files/7156439/download?download_frd=1
 
 ### Week 13
 
-- Clark, Peter. [“Story Generation and Aviation Incident Representation.”] [1301] ArXiv:1802.04818 [Cs],
+- Clark, Peter. [“Story Generation and Aviation Incident Representation.”][1301] ArXiv:1802.04818 [Cs],
   1999.
-- Lakoff, George. [“Structural Complexity in Fairy Tales,”] [1302] 1964 1972.  
-- Simmons, R., and J.  Slocum. [“Generating English Discourse from Semantic Networks.”] [1303] Commun.
+- Lakoff, George. [“Structural Complexity in Fairy Tales,”][1302] 1964 1972.  
+- Simmons, R., and J.  Slocum. [“Generating English Discourse from Semantic Networks.”][1303] Commun.
   ACM 15, no. 10 (October 1972): 891–905.
   
-  [1301] https://courseworks2.columbia.edu/files/7156208/download?download_frd=1
-  [1302] https://courseworks2.columbia.edu/files/7156211/download?download_frd=1
-  [1303] https://courseworks2.columbia.edu/files/7156205/download?download_frd=1
+  [1301]: https://courseworks2.columbia.edu/files/7156208/download?download_frd=1
+  [1302]: https://courseworks2.columbia.edu/files/7156211/download?download_frd=1
+  [1303]: https://courseworks2.columbia.edu/files/7156205/download?download_frd=1
 
 ### Week 14
 
-- Robertson, Judy, and Judith Good. [“Story Creation in Virtual Game Worlds.”] [1401] *Commun. ACM* 48,
+- Robertson, Judy, and Judith Good. [“Story Creation in Virtual Game Worlds.”][1401] *Commun. ACM* 48,
   no. 1 (January 2005): 61–65.
-- Lee, Jieh-Sheng, and Jieh Hsiang. [“Patent Claim Generation by Fine-Tuning OpenAI GPT-2.”] [1402]
+- Lee, Jieh-Sheng, and Jieh Hsiang. [“Patent Claim Generation by Fine-Tuning OpenAI GPT-2.”][1402]
   ArXiv:1907.02052 [Cs, Stat], June 30, 2019.
 - Adelani, David Ifeoluwa, Haotian Mai, Fuming Fang, Huy H. Nguyen, Junichi Yamagishi, and Isao
   Echizen. [“Generating Sentiment-Preserving Fake Online Reviews Using Neural Language Models
-and Their Human- and Machine-Based Detection.”] [1403] ArXiv:1907.09177 [Cs], July 22, 2019.
+and Their Human- and Machine-Based Detection.”][1403] ArXiv:1907.09177 [Cs], July 22, 2019.
 
 [1401]: https://courseworks2.columbia.edu/files/7156209/download?download_frd=1
 [1402]: https://courseworks2.columbia.edu/files/7156207/download?download_frd=1
