@@ -136,12 +136,13 @@ well to get a sense of what is being suggested.
 
 ### Week 6
 
-- Polti, Georges, and Lucille Ray. [*The Thirty-Six Dramatic Situations*][601]. Ridgewood, NJ: Editor
-  Company, 1916.
-- Polti, Georges. [*The Art of Inventing Characters*][602]. Translated by Lucille Ray. Franklin, OH:
-  James Knapp Reeve, 1922.
-- Introduction and Chapter One in Propp, Vladimir. [*Morphology of the Folktale*][603]. Translated by
-  Laurence Scott. Austin, TX: American Folklore Society, University of Texas Press, 1968.
+- "Introduction" in Polti, Georges, and Lucille Ray. [*The Thirty-Six Dramatic
+  Situations*][601]. Ridgewood, NJ: Editor Company, 1916. Explore several of the "situations"
+throughout the book.
+- "Introduction" and Chapter One in Propp, Vladimir. [*Morphology of the Folktale*][603].
+  Translated by Laurence Scott. Austin, TX: American Folklore Society, University of Texas
+Press, 1968.
+- Explore [*The Art of Inventing Characters*][602] (1922) by Polti. 
   
   [601]: https://courseworks2.columbia.edu/files/6915933/download?download_frd=1
   [602]: https://courseworks2.columbia.edu/files/6915897/download?download_frd=1
@@ -152,17 +153,19 @@ well to get a sense of what is being suggested.
 
 - "Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
   Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.
-- Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
-  Angeles, CA: The Feature Photodrama Company, 1919.
-- Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
-  Material and Construction, Combined with a Complete Index and a Progressive Category in Which
-the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][703].
-Springfield, MA: The Home Correspondence School, 1920.
 - Wharton, Edith. “The Writing of Fiction: Telling a Short Story.” Scribners, April 1925,
   344–49.
 - Markov, A. A. “[An Example of Statistical Investigation of the Text Eugene Onegin Concerning
   the Connection of Samples in Chains][705].” Science in Context 19, no. 4 (December 2006
 [1914]): 591–600.
+
+
+- Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
+  Angeles, CA: The Feature Photodrama Company, 1919.
+- Explore Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
+  Material and Construction, Combined with a Complete Index and a Progressive Category in Which
+the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][703].
+Springfield, MA: The Home Correspondence School, 1920.
 
 !!! In class midterm on March 9th.
   
