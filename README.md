@@ -179,7 +179,6 @@ Cook. Explore the rest of the volume.
 [1914]): 591–600.
 - Explore: Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
   issued June 4, 1929.
-- ~Explore: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.~
 
 [801]: https://courseworks2.columbia.edu/files/7336253/download?download_frd=1
 [802]: https://courseworks2.columbia.edu/files/7336702/download?download_frd=1
@@ -190,6 +189,7 @@ Cook. Explore the rest of the volume.
 - Pages 45-50 and 118-123 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
 - Pages 127-150 from [*The Language And Thought Of The Child*][903] (1926) by Jean Piaget.
 - Pages 11-25 from [*Syntactic Structure*][901] (1957) by Noam Chomsky.
+- Explore: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.
 
 [901]: https://courseworks2.columbia.edu/files/7336718/download?download_frd=1
 [902]: https://courseworks2.columbia.edu/files/7336724/download?download_frd=1
