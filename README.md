@@ -187,20 +187,24 @@ Cook. Explore the rest of the volume.
 
 ### Week 9
 
-- Selections from *The Language And Thought Of The Child* (1926) by Jean Piaget.
 - Pages 45-50 and 118-123 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
+- Pages 127-150 from [*The Language And Thought Of The Child*][903] (1926) by Jean Piaget.
 - Pages 11-25 from [*Syntactic Structure*][901] (1957) by Noam Chomsky.
 
 [901]: https://courseworks2.columbia.edu/files/7336718/download?download_frd=1
 [902]: https://courseworks2.columbia.edu/files/7336724/download?download_frd=1
+[903]: https://courseworks2.columbia.edu/files/7336740/download?download_frd=1
 
 ### Week 10
 
+- "Computing Machinery and Intelligence" by Alan Turing in *Mind* Vol. 59, No. 236 (Oct., 1950), 
 - Masterman, Margaret. “Semantic Algorithms,” IV/1-97. Las Vegas, NV: National Science
   Foundation, 1965.
 - Yngve, Victor H. “Random Generation of English Sentences,” 66–80. Teddington, UK, 1961.
 - A Hundred Thousand Billion Poems (1961) by Raymond Queneau.
 - MIT RLE and CS. "COMIT Programmers’ Reference Manual." Cambridge: M.I.T. Press, 1962.
+
+[1001]: https://www.jstor.org/stable/2251299 
 
 ### Week 11
 
