@@ -171,7 +171,7 @@ Springfield, MA: The Home Correspondence School, 1920.~
 ### Week 8
 
 - "Web-Work Plot Structure" in *The Student Writer* Volume II, Numbers 6&7, June and July 1917.
-  (Contained in the first 25 pages of the linked document).
+  (Contained in the first 25 pages of the [linked document][801]).
 - Pages 1-17 in [*Plotto: The Master Book of All Plots*][802] (1928) by William Wallace
 Cook. Explore the rest of the volume.
 - Markov, A. A. “[An Example of Statistical Investigation of the Text Eugene Onegin Concerning
@@ -179,7 +179,7 @@ Cook. Explore the rest of the volume.
 [1914]): 591–600.
 - Explore: Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
   issued June 4, 1929.
-- Explore: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.
+- ~Explore: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.~
 
 [801]: https://courseworks2.columbia.edu/files/7336253/download?download_frd=1
 [802]: https://courseworks2.columbia.edu/files/7336702/download?download_frd=1
