@@ -151,23 +151,18 @@ Press, 1968.
 
 ### Week 7
 
-- "Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
-  Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.
-- Wharton, Edith. “The Writing of Fiction: Telling a Short Story.” Scribners, April 1925,
-  344–49.
-- Markov, A. A. “[An Example of Statistical Investigation of the Text Eugene Onegin Concerning
-  the Connection of Samples in Chains][705].” Science in Context 19, no. 4 (December 2006
-[1914]): 591–600.
-
-
-- Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
-  Angeles, CA: The Feature Photodrama Company, 1919.
-- Explore Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
+- ~"Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
+  Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.~
+- ~Explore Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
   Material and Construction, Combined with a Complete Index and a Progressive Category in Which
 the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][703].
-Springfield, MA: The Home Correspondence School, 1920.
+Springfield, MA: The Home Correspondence School, 1920.~
+- ~Explore Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
+  Angeles, CA: The Feature Photodrama Company, 1919.~
+- ~Wharton, Edith. “The Writing of Fiction: Telling a Short Story.” Scribners, April 1925,
+  344–49.~
 
-!!! In class midterm on March 9th.
+!!! Take home exams distributed, due on March 23. Readings curtailed due to COVID-19 outbreak.
   
   [701]: https://courseworks2.columbia.edu/files/6916010/download?download_frd=1
   [703]: https://courseworks2.columbia.edu/files/6916012/download?download_frd=1
@@ -175,24 +170,29 @@ Springfield, MA: The Home Correspondence School, 1920.
 
 ### Week 8
 
-- Keeler, Harry Stephen. “The Mechanics and Kinematics of Web-Work Plot Construction Part I.”
-  *The Author & Journalist* XIII, no. 4 (April 1928): 5–10.
-- Keeler, Harry Stephen. “The Mechanics and Kinematics of Web-Work Plot Construction Part II
-  (Continued).” *The Author & Journalist* XIII, no. 7 (July 1928): 11–14.
-- Cook, William Wallace. *Plotto: The Master Book of All Plots*. Battle Creek, MI: Ellis
-  Publishing Company, 1928.
-- Loayza, Thomas A. *Story Game*. United States US1716069A, filed January 12, 1927, and issued
-  June 4, 1929.
-- Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.
+- "Web-Work Plot Structure" in *The Student Writer* Volume II, Numbers 6&7, June and July 1917.
+  (Contained in the first 25 pages of the linked document).
+- Pages 1-17 in [*Plotto: The Master Book of All Plots*][802] (1928) by William Wallace
+Cook. Explore the rest of the volume.
+- Markov, A. A. “[An Example of Statistical Investigation of the Text Eugene Onegin Concerning
+  the Connection of Samples in Chains][705].” Science in Context 19, no. 4 (December 2006
+[1914]): 591–600.
+- Explore: Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
+  issued June 4, 1929.
+- Explore: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.
+
+[801]: https://courseworks2.columbia.edu/files/7336253/download?download_frd=1
+[802]: https://courseworks2.columbia.edu/files/7336702/download?download_frd=1
+[803]: https://patents.google.com/patent/US1716069A/en
 
 ### Week 9
 
-- Selections from Jean Piaget. *The Language And Thought Of The Child*. London, UK: Routledge &
-  Kegan Paul, 1926.
-- Selections from Chomsky, Noam. *Syntactic Structure*. Hague, NL: Mouton, 1957.
-- Selections on Turing from Link, David. *Archaeology of Algorithmic Artefacts*. Minneapolis, MN:
-  Univocal, 2016.
+- Selections from *The Language And Thought Of The Child* (1926) by Jean Piaget.
+- Pages 45-50 and 118-123 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
+- Pages 11-25 from [*Syntactic Structure*][901] (1957) by Noam Chomsky.
 
+[901]: https://courseworks2.columbia.edu/files/7336718/download?download_frd=1
+[902]: https://courseworks2.columbia.edu/files/7336724/download?download_frd=1
 
 ### Week 10
 
