@@ -224,15 +224,17 @@ of Computer Sciences, 1974.
 
 ### Week 12
 
-- Selections from Reichardt, Jasia. *Cybernetic Serendipity: The Computer and the Arts*.
+- Selections from Reichardt, Jasia. [*Cybernetic Serendipity: The Computer and the Arts*.][1201]
   London, UK: Studio International, 1970.
 - Van Dijk, Teun A. [“Some Problems of Generative Poetics.”][1202] *Poetics* 1, no. 2 (January 1,
   1971): 5–35.
-- Selections from Racter, and William Chamberlain. *The Policeman’s Beard Is Half Constructed:
-  Computer Prose and Poetry by Racter---The First Book Ever Written by a Computer. 1st edition.
+- Selections from Racter, and William Chamberlain. [*The Policeman’s Beard Is Half Constructed:
+  Computer Prose and Poetry by Racter---The First Book Ever Written by a Computer.][1203] 1st edition.
 New York, NY: Grand Central Pub, 1984.
 
+[1201]: https://courseworks2.columbia.edu/files/7341754/download?download_frd=1
 [1202]: https://courseworks2.columbia.edu/files/7156439/download?download_frd=1
+[1203]: https://courseworks2.columbia.edu/files/7341766/download?download_frd=1
 
 ### Week 13
 
