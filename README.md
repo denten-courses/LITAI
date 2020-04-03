@@ -197,37 +197,45 @@ Cook. Explore the rest of the volume.
 
 ### Week 10
 
-- "Computing Machinery and Intelligence" by Alan Turing in *Mind* Vol. 59, No. 236 (Oct., 1950), 
-- Masterman, Margaret. “Semantic Algorithms,” IV/1-97. Las Vegas, NV: National Science
-  Foundation, 1965.
-- Yngve, Victor H. “Random Generation of English Sentences,” 66–80. Teddington, UK, 1961.
-- A Hundred Thousand Billion Poems (1961) by Raymond Queneau.
+- ["Computing Machinery and Intelligence"][1001] by Alan Turing in *Mind* Vol. 59, No. 236 (Oct., 1950): 433-460.
+- Masterman, Margaret. [“Semantic Algorithms”][1002] (1965), in *Language, Cohesion, and Form*, ed. Yorick Wilks, Cambridge: Cambridge University Press, 2005.
+- Yngve, Victor H. [“Random Generation of English Sentences,”][1003] 66–80. Teddington, UK, 1961.
+- [A Hundred Thousand Billion Poems][1004] (1961) by Raymond Queneau.
 - MIT RLE and CS. "COMIT Programmers’ Reference Manual." Cambridge: M.I.T. Press, 1962.
 
-[1001]: https://www.jstor.org/stable/2251299 
+[1001]: https://courseworks2.columbia.edu/files/7340631/download?download_frd=1 
+[1002]: https://courseworks2.columbia.edu/files/7340552/download?download_frd=1
+[1003]: https://courseworks2.columbia.edu/files/7340553/download?download_frd=1
+[1004]: http://www.bevrowe.info/Trial/Queneau/Queneau.html
 
 ### Week 11
 
-- Weizenbaum, Joseph. “ELIZA—a Computer Program for the Study of Natural Language Communication
-  Between Man and Machine.” *Communication of the ACM* 9, no. 1 (January 1966): 36–45.
+- Weizenbaum, Joseph. [“ELIZA—a Computer Program for the Study of Natural Language Communication
+  Between Man and Machine.”][1101] *Communication of the ACM* 9, no. 1 (January 1966): 36–45.
 - Klein, Sheldon, John F. Aeschlimann, Matthew A. Appelbaum, David F. Balsiger, Elizabeth J.
-  Curtis, Mark Foster, S. David Kalish, et al. “Modeling Propp and Levi-Strauss in a
-Meta-Symbolic Simulation System.” Technical Report. University of Wisconsin-Madison Department
+  Curtis, Mark Foster, S. David Kalish, et al. [“Modeling Propp and Levi-Strauss in a
+Meta-Symbolic Simulation System.”][1102] Technical Report. University of Wisconsin-Madison Department
 of Computer Sciences, 1974.
-- Meehan, James Richard. “The Metanovel: Writing Stories by Computer.” New Haven, CT: Yale
+- Meehan, James Richard. [“The Metanovel: Writing Stories by Computer.”][1103] New Haven, CT: Yale
   University, Department of Computer Science, September 1976.
+  
+  [1101]: https://courseworks2.columbia.edu/files/7340564/download?download_frd=1
+  [1102]: https://courseworks2.columbia.edu/files/7340559/download?download_frd=1
+  [1103]: https://courseworks2.columbia.edu/files/7340563/download?download_frd=1
 
 ### Week 12
 
-- Selections from Reichardt, Jasia. *Cybernetic Serendipity: The Computer and the Arts*.
+- Selections from Reichardt, Jasia. [*Cybernetic Serendipity: The Computer and the Arts*.][1201]
   London, UK: Studio International, 1970.
 - Van Dijk, Teun A. [“Some Problems of Generative Poetics.”][1202] *Poetics* 1, no. 2 (January 1,
   1971): 5–35.
-- Selections from Racter, and William Chamberlain. *The Policeman’s Beard Is Half Constructed:
-  Computer Prose and Poetry by Racter---The First Book Ever Written by a Computer. 1st edition.
+- Selections from Racter, and William Chamberlain. [*The Policeman’s Beard Is Half Constructed:
+  Computer Prose and Poetry by Racter---The First Book Ever Written by a Computer.][1203] 1st edition.
 New York, NY: Grand Central Pub, 1984.
 
+[1201]: https://courseworks2.columbia.edu/files/7341754/download?download_frd=1
 [1202]: https://courseworks2.columbia.edu/files/7156439/download?download_frd=1
+[1203]: https://courseworks2.columbia.edu/files/7341766/download?download_frd=1
 
 ### Week 13
 
