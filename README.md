@@ -186,7 +186,7 @@ Cook. Explore the rest of the volume.
 
 ### Week 9
 
-- Pages 45-50 and 118-123 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
+- Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
 - Pages 127-150 from [*The Language And Thought Of The Child*][903] (1926) by Jean Piaget.
 - Pages 11-25 from [*Syntactic Structure*][901] (1957) by Noam Chomsky.
 - ~Explore: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.~
