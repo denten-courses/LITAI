@@ -70,7 +70,7 @@ Introductions. Structure of the class.
 ### Week 2
 
 - Book III in Aristotle's [*Rhetoric*][201] (367-347 BCE).
-- Explore "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][202] and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][203]
+- **Explore**: "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][202] and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][203]
 - For background browse Chapter 2, pages 40-69 in Truitt, E. R. [*Medieval Robots: Mechanism, Magic, Nature, and Art*][204] .
   Philadelphia, PA: University of Pennsylvania Press, 2016. I suggest you do not write your weekly response post on this text.  
   
@@ -90,7 +90,7 @@ By "explore" I mean try to understand the work as a system, dipping into the tex
 - "[Love-Kiss XLI][303]" (1671) by Quirinus Kuhlmann.
 - ~~Selections from Bright, Timothe. [*Characterie: An Arte of Shorts, Swifte and Secrete
   Writing by Character*][301],  I. Windet, 1588.~~
-- Explore [*An Essay Towards a Real Character, and a Philosophical Language*][305] (London,
+- **Explore**: [*An Essay Towards a Real Character, and a Philosophical Language*][305] (London,
   1668) by John Wilkins, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages
 1-5), and Part 4 Chapter 1-2 (pages 385-413).
 - [Garden and Labyrinth of Time][306] (1988) by Gerald Gillespie.
@@ -108,7 +108,7 @@ By "explore" I mean try to understand the work as a system, dipping into the tex
   (pages 229-235), and "Letter to John Fredrick, Duke of Brunswick-Hanover" (pages 259-263) in
 [*Philosophical Papers and Letters*][405] by Leibniz.
 - "The Book of the Machines" chapters (ch. 23-25) in Samuel Butler's [*Erewhon*][403] (1872).
-- Explore "[Sketch of The Analytical Engine Invented by Charles Babbage By L. F. MENABREA
+- **Explore**: "[Sketch of The Analytical Engine Invented by Charles Babbage By L. F. MENABREA
   of Turin, Officer of the Military Engineers from the Bibliothèque Universelle de Genève,
 October, 1842, No. 82 With notes upon the Memoir by the Translator Ada Augusta, Countess of
 Lovelace][404]."
@@ -137,12 +137,12 @@ well to get a sense of what is being suggested.
 ### Week 6
 
 - "Introduction" in Polti, Georges, and Lucille Ray. [*The Thirty-Six Dramatic
-  Situations*][601]. Ridgewood, NJ: Editor Company, 1916. Explore several of the "situations"
+  Situations*][601]. Ridgewood, NJ: Editor Company, 1916. **Explore** several of the "situations"
 throughout the book.
 - "Introduction" and Chapter One in Propp, Vladimir. [*Morphology of the Folktale*][603].
   Translated by Laurence Scott. Austin, TX: American Folklore Society, University of Texas
 Press, 1968.
-- Explore [*The Art of Inventing Characters*][602] (1922) by Polti. 
+- **Explore**: [*The Art of Inventing Characters*][602] (1922) by Polti. 
   
   [601]: https://courseworks2.columbia.edu/files/6915933/download?download_frd=1
   [602]: https://courseworks2.columbia.edu/files/6915897/download?download_frd=1
@@ -153,11 +153,11 @@ Press, 1968.
 
 - ~"Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
   Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.~
-- ~Explore Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
+- ~**Explore**: Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
   Material and Construction, Combined with a Complete Index and a Progressive Category in Which
 the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][703].
 Springfield, MA: The Home Correspondence School, 1920.~
-- ~Explore Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
+- ~**Explore**: Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
   Angeles, CA: The Feature Photodrama Company, 1919.~
 - ~Wharton, Edith. “The Writing of Fiction: Telling a Short Story.” Scribners, April 1925,
   344–49.~
@@ -173,11 +173,11 @@ Springfield, MA: The Home Correspondence School, 1920.~
 - "Web-Work Plot Structure" in *The Student Writer* Volume II, Numbers 6&7, June and July 1917.
   (Contained in the first 25 pages of the [linked document][801]).
 - Pages 1-17 in [*Plotto: The Master Book of All Plots*][802] (1928) by William Wallace
-Cook. Explore the rest of the volume.
+Cook. **Explore** the rest of the volume.
 - Markov, A. A. “[An Example of Statistical Investigation of the Text Eugene Onegin Concerning
   the Connection of Samples in Chains][705].” Science in Context 19, no. 4 (December 2006
 [1914]): 591–600.
-- Explore: Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
+- **Explore**: Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
   issued June 4, 1929.
 
 [801]: https://courseworks2.columbia.edu/files/7336253/download?download_frd=1
@@ -189,7 +189,7 @@ Cook. Explore the rest of the volume.
 - Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
 - Pages 127-150 from [*The Language And Thought Of The Child*][903] (1926) by Jean Piaget.
 - Pages 11-25 from [*Syntactic Structure*][901] (1957) by Noam Chomsky.
-- ~Explore: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.~
+- ~**Explore**: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.~
 
 [901]: https://courseworks2.columbia.edu/files/7336718/download?download_frd=1
 [902]: https://courseworks2.columbia.edu/files/7336724/download?download_frd=1
@@ -197,11 +197,14 @@ Cook. Explore the rest of the volume.
 
 ### Week 10
 
-- ["Computing Machinery and Intelligence"][1001] by Alan Turing in *Mind* Vol. 59, No. 236 (Oct., 1950): 433-460.
-- Masterman, Margaret. [“Semantic Algorithms”][1002] (1965), in *Language, Cohesion, and Form*, ed. Yorick Wilks, Cambridge: Cambridge University Press, 2005.
+- ["Computing Machinery and Intelligence"][1001] by Alan Turing in *Mind* Vol. 59, No. 236
+  (Oct., 1950): 433-460.
+- Masterman, Margaret. [“Semantic Algorithms”][1002] (1965), in *Language, Cohesion, and Form*,
+  ed. Yorick Wilks, Cambridge: Cambridge University Press, 2005.
 - Yngve, Victor H. [“Random Generation of English Sentences,”][1003] 66–80. Teddington, UK, 1961.
-- [A Hundred Thousand Billion Poems][1004] (1961) by Raymond Queneau.
-- MIT RLE and CS. "COMIT Programmers’ Reference Manual." Cambridge: M.I.T. Press, 1962.
+- **Explore**: [A Hundred Thousand Billion Poems][1004] (1961) by Raymond Queneau.
+- **Explore**: *An Introduction to COMIT Programming* (MIT Press, 1962).
+
 
 [1001]: https://courseworks2.columbia.edu/files/7340631/download?download_frd=1 
 [1002]: https://courseworks2.columbia.edu/files/7340552/download?download_frd=1
