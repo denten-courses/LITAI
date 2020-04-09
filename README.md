@@ -203,13 +203,14 @@ Cook. **Explore** the rest of the volume.
   ed. Yorick Wilks, Cambridge: Cambridge University Press, 2005.
 - Yngve, Victor H. [“Random Generation of English Sentences,”][1003] 66–80. Teddington, UK, 1961.
 - **Explore**: [A Hundred Thousand Billion Poems][1004] (1961) by Raymond Queneau.
-- **Explore**: *An Introduction to COMIT Programming* (MIT Press, 1962).
+- **Explore**: [*An Introduction to COMIT Programming*][1005] (MIT Press, 1962).
 
 
-[1001]: https://courseworks2.columbia.edu/files/7340631/download?download_frd=1 
+[1001]: https://courseworks2.columbia.edu/files/7340631/download?download_frd=1
 [1002]: https://courseworks2.columbia.edu/files/7340552/download?download_frd=1
 [1003]: https://courseworks2.columbia.edu/files/7340553/download?download_frd=1
 [1004]: http://www.bevrowe.info/Trial/Queneau/Queneau.html
+[1005]: https://courseworks2.columbia.edu/files/7517317/download?download_frd=1
 
 ### Week 11
 
