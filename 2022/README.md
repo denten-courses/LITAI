@@ -26,8 +26,8 @@ All readings linked from this page. Please print and bring to class when possibl
 
 ## Course Requirements & Grading
 
-Weekly lectures will be followed by a hands-on lab session. Students will be expected to keep
-up with a moderate reading load, to attend weekly lectures, and to participate in the class
+Weekly lectures will be followed by occasional hands-on lab sessions (usually involving pen and paper). 
+Students will be expected to keep up with a moderate reading load, to attend weekly lectures, and to participate in the class
 discussion, both in person and online. Advanced students will have the option to integrate the
 course's themes with the subject matter of their expertise.
 
