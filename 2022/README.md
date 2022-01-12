@@ -22,6 +22,7 @@ historical context; and to those students in the humanities or the social scienc
 in exploring the technical manifestations of generative poetics and creativity.
 
 Contact information is posted on our [Coursework page](https://courseworks2.columbia.edu/courses/95253).
+All readings linked from this page. Please print and bring to class when possible.
 
 ## Course Requirements & Grading
 
