@@ -65,8 +65,8 @@ Introductions. Structure of the class.
   Machines*][101]. New York, NY: Zone Books, 2003.
 - Aristotle's [*Poetics*][102] (335 BCE), pages 85-132 in the linked edition.
 
-[101]: https://courseworks2.columbia.edu/files/6859868/download?download_frd=1
-[102]: https://courseworks2.columbia.edu/files/6859438/download?download_frd=1
+[101]: https://courseworks2.columbia.edu/courses/143944/files?preview=13263437
+[102]: https://courseworks2.columbia.edu/courses/143944/files?preview=13263435
 
 ### Week 2
 
