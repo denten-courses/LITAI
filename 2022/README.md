@@ -21,7 +21,7 @@ appeal to technologists seeking to gain a deeper, cultural understanding of thei
 historical context; and to those students in the humanities or the social sciences interested
 in exploring the technical manifestations of generative poetics and creativity.
 
-Contact information is posted on our [Coursework page](https://courseworks2.columbia.edu/courses/95253).
+Contact information is posted on our [Coursework page]https://courseworks2.columbia.edu/courses/143944).
 All readings linked from this page. Please print and bring to class when possible.
 
 ## Course Requirements & Grading
@@ -37,12 +37,12 @@ course's themes with the subject matter of their expertise.
 - 25%     Project Proposal + Final Project
 
 All written assignments should be submitted to our [Courseworks page][1], where you can also
-find our contact information. Weekly discussion Piazza forum is [here][2].
+find our contact information. The weekly discussion Ed forum is [here][2].
 
-Piazza posts are due on Tuesdayds, by midnight. You are encouraged to respond to others as well as to write new posts. In either case, stay close to the text by discussing specific passages. A good response will elicit conversation, ask questions, express puzzlement or illuminate particulary lucid moments of the work.
+Ed Discussion Forum posts are due on Tuesdayds, by midnight. You are encouraged to respond to others as well as to write new posts. In either case, stay close to the text by discussing specific passages. A good response will elicit conversation, ask questions, express puzzlement or illuminate particulary lucid moments of the work.
 
-[1]: https://courseworks2.columbia.edu/courses/95253
-[2]: https://piazza.com/configure-classes/spring2020/engl4728
+[1]: https://courseworks2.columbia.edu/courses/143944
+[2]: https://edstem.org/us/courses/19976/discussion/
 
 ## Class and University Policies
 
