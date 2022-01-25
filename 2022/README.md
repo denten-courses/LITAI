@@ -32,7 +32,7 @@ discussion, both in person and online. Advanced students will have the option to
 course's themes with the subject matter of their expertise.
 
 - 25%     Class & Online (Ed) Participation
-- 25%     Midterm Exam (March 9th)
+- 25%     Midterm Exam
 - 25%     Final Exam (Finals Week)
 - 25%     Project Proposal + Final Project
 
