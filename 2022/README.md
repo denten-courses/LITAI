@@ -31,7 +31,7 @@ Students will be expected to keep up with a moderate reading load, to attend wee
 discussion, both in person and online. Advanced students will have the option to integrate the
 course's themes with the subject matter of their expertise.
 
-- 25%     Class & Online (Piazza) Participation
+- 25%     Class & Online (Ed) Participation
 - 25%     Midterm Exam (March 9th)
 - 25%     Final Exam (Finals Week)
 - 25%     Project Proposal + Final Project
