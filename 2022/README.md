@@ -21,7 +21,7 @@ appeal to technologists seeking to gain a deeper, cultural understanding of thei
 historical context; and to those students in the humanities or the social sciences interested
 in exploring the technical manifestations of generative poetics and creativity.
 
-Contact information is posted on our [Coursework page]https://courseworks2.columbia.edu/courses/143944).
+Contact information is posted on our [Coursework page](https://courseworks2.columbia.edu/courses/143944).
 All readings linked from this page. Please print and bring to class when possible.
 
 ## Course Requirements & Grading
