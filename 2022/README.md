@@ -78,10 +78,10 @@ Introductions. Structure of the class.
 By "explore" I mean try to understand the work as a system, dipping into the text for close reading or browsing where appropriate.
   
   
-  [201]: https://courseworks2.columbia.edu/files/6859640/download?download_frd=1 
-  [202]: https://courseworks2.columbia.edu/files/6889329/download?download_frd=1
-  [203]: https://courseworks2.columbia.edu/files/6889330/download?download_frd=1
-  [204]: https://courseworks2.columbia.edu/files/6860966/download?download_frd=1
+  [201]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320901 
+  [202]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320924
+  [203]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320935
+  [204]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320948
   
 
 
