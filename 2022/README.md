@@ -99,9 +99,9 @@ By "explore" I mean try to understand the work as a system, dipping into the tex
 [301]: http://gateway.proquest.com.ezproxy.cul.columbia.edu/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:image:11523
 [302]: https://courseworks2.columbia.edu/files/6929616/download?download_frd=1
 [303]: https://www.jstor.org/stable/25706521
-[304]: https://courseworks2.columbia.edu/files/6940713/download?download_frd=1
+[304]: https://courseworks2.columbia.edu/files/13328741/download?download_frd=1
 [305]: https://archive.org/download/AnEssayTowardsARealCharacterAndAPhilosophicalLanguage/An_Essay_Towards_a_Real_Character_and_a.pdf
-[306]: https://courseworks2.columbia.edu/files/6979963/download?download_frd=1
+[306]: https://courseworks2.columbia.edu/files/13328738/download?download_frd=1
 
 ### Week 4
 
@@ -116,9 +116,9 @@ Lovelace][404]."
 
 [401]: https://courseworks2.columbia.edu/files/6861048/download?download_frd=1
 [402]: https://www.tandfonline.com/doi/full/10.1080/02666286.2014.954809
-[403]: https://courseworks2.columbia.edu/files/6860753/download?download_frd=1
-[404]: https://courseworks2.columbia.edu/courses/95253/files?preview=7036928
-[405]: https://courseworks2.columbia.edu/courses/95253/files?preview=7037642
+[403]: https://courseworks2.columbia.edu/files/13328964/download?download_frd=1
+[404]: https://courseworks2.columbia.edu/files/13328962/download?download_frd=1
+[405]: https://courseworks2.columbia.edu/files/13328955/download?download_frd=1
 
 ### Week 5
 
@@ -131,9 +131,9 @@ Lovelace][404]."
 Expand Them Into Lectures*][501](1890) by Thomas Dunn English. Browse through the essays as
 well to get a sense of what is being suggested.
 
-  [501]: https://courseworks2.columbia.edu/files/6915788/download?download_frd=1
-  [502]: https://courseworks2.columbia.edu/files/6915791/download?download_frd=1
-  [503]: https://courseworks2.columbia.edu/files/6915787/download?download_frd=1
+  [501]: https://courseworks2.columbia.edu/files/13328991/download?download_frd=1
+  [502]: https://courseworks2.columbia.edu/files/13329010/download?download_frd=1
+  [503]: https://courseworks2.columbia.edu/files/13328978/download?download_frd=1
 
 ### Week 6
 
@@ -145,9 +145,9 @@ throughout the book.
 Press, 1968.
 - **Explore**: [*The Art of Inventing Characters*][602] (1922) by Polti. 
   
-  [601]: https://courseworks2.columbia.edu/files/6915933/download?download_frd=1
-  [602]: https://courseworks2.columbia.edu/files/6915897/download?download_frd=1
-  [603]: https://courseworks2.columbia.edu/files/6915957/download?download_frd=1
+  [601]: https://courseworks2.columbia.edu/files/13329224/download?download_frd=1
+  [602]: https://courseworks2.columbia.edu/files/13329212/download?download_frd=1
+  [603]: https://courseworks2.columbia.edu/files/13329241/download?download_frd=1
   
 
 ### Week 7
@@ -165,8 +165,8 @@ Springfield, MA: The Home Correspondence School, 1920.~
 
 !!! Take home exams distributed, due on March 23. Readings curtailed due to COVID-19 outbreak.
   
-  [701]: https://courseworks2.columbia.edu/files/6916010/download?download_frd=1
-  [703]: https://courseworks2.columbia.edu/files/6916012/download?download_frd=1
+  [701]: https://courseworks2.columbia.edu/files/13329309/download?download_frd=1
+  [703]: https://courseworks2.columbia.edu/files/13329318/download?download_frd=1
   [705]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-core/content/view/EA1E005FA0BC4522399A4E9DA0304862/S0269889706001074a.pdf/an_example_of_statistical_investigation_of_the_text_eugene_onegin_concerning_the_connection_of_samples_in_chains.pdf
 
 ### Week 8
@@ -181,8 +181,8 @@ Cook. **Explore** the rest of the volume.
 - **Explore**: Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
   issued June 4, 1929.
 
-[801]: https://courseworks2.columbia.edu/files/7336253/download?download_frd=1
-[802]: https://courseworks2.columbia.edu/files/7336702/download?download_frd=1
+[801]: https://courseworks2.columbia.edu/files/13329320/download?download_frd=1
+[802]: https://courseworks2.columbia.edu/files/13329354/download?download_frd=1
 [803]: https://patents.google.com/patent/US1716069A/en
 
 ### Week 9
@@ -192,9 +192,9 @@ Cook. **Explore** the rest of the volume.
 - Pages 11-25 from [*Syntactic Structure*][901] (1957) by Noam Chomsky.
 - ~**Explore**: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.~
 
-[901]: https://courseworks2.columbia.edu/files/7336718/download?download_frd=1
-[902]: https://courseworks2.columbia.edu/files/7336724/download?download_frd=1
-[903]: https://courseworks2.columbia.edu/files/7336740/download?download_frd=1
+[901]: https://courseworks2.columbia.edu/files/13329286/download?download_frd=1
+[902]: https://courseworks2.columbia.edu/files/13329284/download?download_frd=1
+[903]: https://courseworks2.columbia.edu/files/13329336/download?download_frd=1
 
 ### Week 10
 
@@ -207,11 +207,11 @@ Cook. **Explore** the rest of the volume.
 - **Explore**: [*An Introduction to COMIT Programming*][1005] (MIT Press, 1962).
 
 
-[1001]: https://courseworks2.columbia.edu/files/7340631/download?download_frd=1
-[1002]: https://courseworks2.columbia.edu/files/7340552/download?download_frd=1
-[1003]: https://courseworks2.columbia.edu/files/7340553/download?download_frd=1
+[1001]: https://courseworks2.columbia.edu/files/13329507/download?download_frd=1
+[1002]: https://courseworks2.columbia.edu/files/13329394/download?download_frd=1
+[1003]: https://courseworks2.columbia.edu/files/13329510/download?download_frd=1
 [1004]: http://www.bevrowe.info/Trial/Queneau/Queneau.html
-[1005]: https://courseworks2.columbia.edu/files/7517317/download?download_frd=1
+[1005]: https://courseworks2.columbia.edu/files/13329459/download?download_frd=1
 
 ### Week 11
 
@@ -224,9 +224,9 @@ of Computer Sciences, 1974.
 - Meehan, James Richard. [“The Metanovel: Writing Stories by Computer.”][1103] New Haven, CT: Yale
   University, Department of Computer Science, September 1976.
   
-  [1101]: https://courseworks2.columbia.edu/files/7340564/download?download_frd=1
-  [1102]: https://courseworks2.columbia.edu/files/7340559/download?download_frd=1
-  [1103]: https://courseworks2.columbia.edu/files/7340563/download?download_frd=1
+  [1101]: https://courseworks2.columbia.edu/files/13329509/download?download_frd=1
+  [1102]: https://courseworks2.columbia.edu/files/13329525/download?download_frd=1
+  [1103]: https://courseworks2.columbia.edu/files/13329452/download?download_frd=1
 
 ### Week 12
 
@@ -238,9 +238,9 @@ of Computer Sciences, 1974.
   Computer Prose and Poetry by Racter---The First Book Ever Written by a Computer.][1203] 1st edition.
 New York, NY: Grand Central Pub, 1984.
 
-[1201]: https://courseworks2.columbia.edu/files/7341754/download?download_frd=1
-[1202]: https://courseworks2.columbia.edu/files/7156439/download?download_frd=1
-[1203]: https://courseworks2.columbia.edu/files/7341766/download?download_frd=1
+[1201]: https://courseworks2.columbia.edu/files/13329467/download?download_frd=1
+[1202]: https://courseworks2.columbia.edu/files/13329471/download?download_frd=1
+[1203]: https://courseworks2.columbia.edu/files/13329501/download?download_frd=1
 
 ### Week 13
 
@@ -250,9 +250,9 @@ New York, NY: Grand Central Pub, 1984.
 - Simmons, R., and J.  Slocum. [“Generating English Discourse from Semantic Networks.”][1303] Commun.
   ACM 15, no. 10 (October 1972): 891–905.
   
-  [1301]: https://courseworks2.columbia.edu/files/7156208/download?download_frd=1
-  [1302]: https://courseworks2.columbia.edu/files/7156211/download?download_frd=1
-  [1303]: https://courseworks2.columbia.edu/files/7156205/download?download_frd=1
+  [1301]: https://courseworks2.columbia.edu/files/13329473/download?download_frd=1
+  [1302]: https://courseworks2.columbia.edu/files/13329476/download?download_frd=1
+  [1303]: https://courseworks2.columbia.edu/files/13329392/download?download_frd=1
 
 ### Week 14
 
@@ -264,9 +264,9 @@ New York, NY: Grand Central Pub, 1984.
   Echizen. [“Generating Sentiment-Preserving Fake Online Reviews Using Neural Language Models
 and Their Human- and Machine-Based Detection.”][1403] ArXiv:1907.09177 [Cs], July 22, 2019.
 
-[1401]: https://courseworks2.columbia.edu/files/7156209/download?download_frd=1
-[1402]: https://courseworks2.columbia.edu/files/7156207/download?download_frd=1
-[1403]: https://courseworks2.columbia.edu/files/7156206/download?download_frd=1
+[1401]: https://courseworks2.columbia.edu/files/13329475/download?download_frd=1
+[1402]: https://courseworks2.columbia.edu/files/13329462/download?download_frd=1
+[1403]: https://courseworks2.columbia.edu/files/13329393/download?download_frd=1
 
 
 
