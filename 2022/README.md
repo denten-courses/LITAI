@@ -163,7 +163,7 @@ Springfield, MA: The Home Correspondence School, 1920.~
 - ~Wharton, Edith. “The Writing of Fiction: Telling a Short Story.” Scribners, April 1925,
   344–49.~
 
-!!! Take home exams distributed, due on March 23. Readings curtailed due to COVID-19 outbreak.
+!!! In-class midterm scheduled for March 9. Details to follow. 
   
   [701]: https://courseworks2.columbia.edu/files/13329309/download?download_frd=1
   [703]: https://courseworks2.columbia.edu/files/13329318/download?download_frd=1
