@@ -122,7 +122,7 @@ Lovelace][404]."
 
 ### Week 5
 
-- ~~"Introduction" in Brewster, William Tenney. [*Specimens of Narration*][502]. H. Holt, 1895.~~
+- "Introduction" in Brewster, William Tenney. [*Specimens of Narration*][502]. H. Holt, 1895.
 - "From the [*Technique of the Drama: An Exposition of Dramatic Composition and Art*][503]
   (1900) by Gustav Freytag read the Introduction (pages 1-8), Chapter II Parts 1&2 (pages
 104-140), and Chapter III Part 1 (pages 210-216).
