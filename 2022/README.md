@@ -200,6 +200,8 @@ Cook. **Explore** the rest of the volume.
 
 - ["Computing Machinery and Intelligence"][1001] by Alan Turing in *Mind* Vol. 59, No. 236
   (Oct., 1950): 433-460.
+- ["On Computable Numbers"][1006] by Alan Turing in *Mind* Vol. 59, No. 236
+  (Oct., 1950): 433-460.
 - Masterman, Margaret. [“Semantic Algorithms”][1002] (1965), in *Language, Cohesion, and Form*,
   ed. Yorick Wilks, Cambridge: Cambridge University Press, 2005.
 - Yngve, Victor H. [“Random Generation of English Sentences,”][1003] 66–80. Teddington, UK, 1961.
@@ -212,6 +214,7 @@ Cook. **Explore** the rest of the volume.
 [1003]: https://courseworks2.columbia.edu/files/13329510/download?download_frd=1
 [1004]: http://www.bevrowe.info/Trial/Queneau/Queneau.html
 [1005]: https://courseworks2.columbia.edu/files/13329459/download?download_frd=1
+[1006]: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 
 ### Week 11
 
