@@ -62,7 +62,7 @@ Introductions. Structure of the class.
 
 ### Week 1: Introduction
 
-- Chapter 1: "[The Institute for the Study of Machine Literature][103]" from *Author Function* by
+- Chapter 1: "[Institute for the Study of Machine Literature][103]" from *Author Function* by
   Dennis Yi Tenen (forthcoming w/ Chicago UP).
 - Plato's [*Phaedrus*][101]
 - Hutchins, Edwin. "[How a Cockpit Remembers Its Speeds][102].' *Cognitive Science* 19,
