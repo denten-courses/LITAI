@@ -1,10 +1,11 @@
 # CLEN 4728: Literature in the Age of Artificial Intelligence (LIT-AI)
 
-> with Prof. Dennis Yi Tenen and TA Beah Jacobson  
+> with Prof. Dennis Yi Tenen  
+> TAs Julia Meghan Walton and Patrick Anson  
 > Department of English and Comparative Literature  
-> Spring 2022  
-> MW 10:10am-11:25am  
-> 503 Hamilton Hall  
+> Spring 2024  
+> MW 2:40 - 3:55pm  
+> 5AB KRAFT CENTER
 
 In this course we will consider the long history of literature composed with, for, and by
 machines. Our reading list will start with Ramon Llull, the thirteenth-century combinatorial
@@ -31,30 +32,27 @@ Students will be expected to keep up with a moderate reading load, to attend wee
 discussion, both in person and online. Advanced students will have the option to integrate the
 course's themes with the subject matter of their expertise.
 
-- 25%     Class & Online (Ed) Participation
-- 25%     Midterm Exam
+- 25%     Class & Online Participation
+- 25%     Midterm Project
 - 25%     Final Exam (Finals Week)
-- 25%     Project Proposal + Final Project
+- 25%     Final Project
 
-All written assignments should be submitted to our [Courseworks page][1], where you can also
-find our contact information. The weekly discussion Ed forum is [here][2].
+All written assignments should be submitted to our Courseworks page.
 
-Ed Discussion Forum posts are due on Tuesday's, by midnight. You are encouraged to respond
-to others as well as to write new posts. In either case, stay close to the text by
-discussing specific passages. A good response will elicit conversation, ask questions,
-express puzzlement or illuminate particularly lucid moments of the work.
-
-[1]: https://courseworks2.columbia.edu/courses/143944
-[2]: https://edstem.org/us/courses/19976/discussion/
+Discussion Forum posts are due on Tuesdays, by midnight. You are encouraged to respond to
+others as well as to write new posts. In either case, stay close to the text by discussing
+specific passages. A good response will elicit conversation, ask questions, express
+puzzlement or illuminate particularly lucid moments of the work.
 
 ## Class and University Policies
 
 **The usage of electronic devices is strongly discouraged in the classroom.**
 
-When in doubt, cite! Plagiarism is insulting to your fellow students, your instructors, and to
-the research community at large. It wastes my time and yours, and is, ultimately, not worth the
-risk. Consult Columbia’s guidelines at <http://www.college.columbia.edu/academics/integrity> or
-ask me for help early in the writing process.
+When in doubt, cite! Plagiarism is insulting to your fellow students, your instructors,
+and to the research community at large. It wastes my time and yours, and is, ultimately,
+not worth the risk. Consult Columbia’s guidelines at
+<http://www.college.columbia.edu/academics/integrity> or ask me for help early in the
+writing process.
 
 ## Provisional Schedule & Reading List
 
@@ -62,33 +60,36 @@ ask me for help early in the writing process.
 
 Introductions. Structure of the class.
 
-### Week 1 (Jan 24 and 26)
+### Week 1: Introduction
 
-- Introduction (Pages 1-10) to DeLanda, Manuel. [*War in the Age of Intelligent
-  Machines*][101]. New York, NY: Zone Books, 2003.
-- Aristotle's [*Poetics*][102] (335 BCE), pages 85-132 in the linked edition.
+- Chapter 1: "[The Institute for the Study of Machine Literature][103]" from *Author Function* by
+  Dennis Yi Tenen (forthcoming w/ Chicago UP).
+- Plato's [*Phaedrus*][101]
+- Hutchins, Edwin. "[How a Cockpit Remembers Its Speeds][102].' *Cognitive Science* 19,
+  no. 3 (July 1, 1995): 265–88.
 
-[101]: https://courseworks2.columbia.edu/courses/143944/files?preview=13263437
-[102]: https://courseworks2.columbia.edu/courses/143944/files?preview=13263435
+[101]: https://courseworks2.columbia.edu/courses/191258/files?preview=19699063
+[102]: https://www.sciencedirect.com/science/article/pii/0364021395900209
+[103]: https://courseworks2.columbia.edu/courses/191258/files?preview=19699518
 
-### Week 2
+## Part I: Chance Divination
 
-- Book III in Aristotle's [*Rhetoric*][201] (367-347 BCE).
+## Part II: Combinatorial Imagination
+
+### Week 4
+
 - **Explore**: "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][202] and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][203]
 - For background browse Chapter 2, pages 40-69 in Truitt, E. R. [*Medieval Robots: Mechanism, Magic, Nature, and Art*][204] .
   Philadelphia, PA: University of Pennsylvania Press, 2016. I suggest you do not write your weekly response post on this text.  
   
 By "explore" I mean try to understand the work as a system, dipping into the text for close reading or browsing where appropriate.
   
-  
   [201]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320901 
   [202]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320924
   [203]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320935
   [204]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320948
   
-
-
-### Week 3
+### Week 5
 
 - "[On the Combinatorial Art][304]" (1666) by Gottfried Leibniz.
 - "[Love-Kiss XLI][303]" (1671) by Quirinus Kuhlmann.
@@ -105,6 +106,8 @@ By "explore" I mean try to understand the work as a system, dipping into the tex
 [304]: https://courseworks2.columbia.edu/files/13328741/download?download_frd=1
 [305]: https://archive.org/download/AnEssayTowardsARealCharacterAndAPhilosophicalLanguage/An_Essay_Towards_a_Real_Character_and_a.pdf
 [306]: https://courseworks2.columbia.edu/files/13328738/download?download_frd=1
+
+## Part III: Industrial Manufacture
 
 ### Week 4
 
@@ -198,6 +201,20 @@ Cook. **Explore** the rest of the volume.
 [901]: https://courseworks2.columbia.edu/files/13329286/download?download_frd=1
 [902]: https://courseworks2.columbia.edu/files/13329284/download?download_frd=1
 [903]: https://courseworks2.columbia.edu/files/13329336/download?download_frd=1
+
+
+## Part IV: Structuralism
+
+- Book III in Aristotle's [*Rhetoric*][201] (367-347 BCE).
+- Aristotle's [*Poetics*][102] (335 BCE), pages 85-132 in the linked edition.
+
+[101]: https://courseworks2.columbia.edu/courses/143944/files?preview=13263437
+[102]: https://courseworks2.columbia.edu/courses/143944/files?preview=13263435
+
+
+## Part V: Probabilistic Methods
+
+
 
 ### Week 10
 

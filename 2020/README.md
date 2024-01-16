@@ -38,7 +38,10 @@ course's themes with the subject matter of their expertise.
 All written assignments should be submitted to our [Courseworks page][1], where you can also
 find our contact information. Weekly discussion Piazza forum is [here][2].
 
-Piazza posts are due on Tuesdayds, by midnight. You are encouraged to respond to others as well as to write new posts. In either case, stay close to the text by discussing specific passages. A good response will elicit conversation, ask questions, express puzzlement or illuminate particulary lucid moments of the work.
+Piazza posts are due on Tuesdays, by midnight. You are encouraged to respond to others as
+well as to write new posts. In either case, stay close to the text by discussing specific
+passages. A good response will elicit conversation, ask questions, express puzzlement or
+illuminate particularly lucid moments of the work.
 
 [1]: https://courseworks2.columbia.edu/courses/95253
 [2]: https://piazza.com/configure-classes/spring2020/engl4728
