@@ -290,9 +290,3 @@ and Their Human- and Machine-Based Detection.”][1403] ArXiv:1907.09177 [Cs], J
 [1401]: https://courseworks2.columbia.edu/files/13329475/download?download_frd=1
 [1402]: https://courseworks2.columbia.edu/files/13329462/download?download_frd=1
 [1403]: https://courseworks2.columbia.edu/files/13329393/download?download_frd=1
-
-!!! Final exam projected on May 11th, 9am - noon.
-
-
-
-
