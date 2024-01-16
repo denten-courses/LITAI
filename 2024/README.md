@@ -56,7 +56,7 @@ writing process.
 
 ## Provisional Schedule & Reading List
 
-### Week 0 (Jan 19)
+### Week 0 (Jan 17th)
 
 Introductions. Structure of the class.
 
