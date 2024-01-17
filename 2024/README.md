@@ -12,7 +12,8 @@
 | Name          | Time        | Location         |
 | --------------|-------------| ---------------- |
 | Dennis YT     | W 4--5pm    | Philosophy 408e  |
-| Patrick A     | Th 12--1pm  |                  |
+| Patrick A     | Tu 1--3pm   |                  |
+| Julia W       | Th 12-2pm   | Philosophy 408e  |
 
 ### Course Description
 
