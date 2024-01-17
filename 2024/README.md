@@ -14,6 +14,8 @@
 | Dennis YT     | W 4--5pm    | Philosophy 408e  |
 | Patrick A     | Th 12--1pm  |                  |
 
+## Course Description
+
 In this course we will consider the long history of literature composed with, for, and by
 machines. Our reading list will start with Ramon Llull, the thirteenth-century combinatorial
 mystic, and continue with readings from Gottfried Leibniz, Francis Bacon, Jonathan Swift, and
