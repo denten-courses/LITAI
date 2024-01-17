@@ -105,21 +105,26 @@ Introductions. Structure of the class.
 
 ### Week 3
 
-- **Explore**: "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][202] and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][203]
-- For background browse Chapter 2, pages 40-69 in Truitt, E. R. [*Medieval Robots: Mechanism, Magic, Nature, and Art*][204] .
-  Philadelphia, PA: University of Pennsylvania Press, 2016. I suggest you do not write your weekly response post on this text.  
-  
-By "explore" I mean try to understand the work as a system, dipping into the text for close reading or browsing where appropriate.
-  
+- "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][302]
+  and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][303]
+- "The Real Meaning of Prophesy, Soothsaying, Dream Visions, Dream Words, Divination,
+  Supernatural Perception, Geomancy, The Za'irajah" by Ibn Khaldun translated Franz
+  Rozenthal in [*The Muqqaddimah*][305], Volume 1 (Princeton UP, 1958[1377]). Pages
+  184--245.
+- For background browse Chapter 2, pages 40-69 in Truitt, E. R. [*Medieval Robots:
+  Mechanism, Magic, Nature, and Art*][304] (University of Pennsylvania Press, 2016). I
+  suggest you do not write your weekly response post on this text.
+
   [301]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320901 
   [302]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320924
   [303]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320935
   [304]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320948
-  
+  [305]: https://courseworks2.columbia.edu/files/19716418/download?download_frd=1
+
 ### Week 4
 
-- "[On the Combinatorial Art][404]" (1666) by Gottfried Leibniz.
 - "[Love-Kiss XLI][403]" (1671) by Quirinus Kuhlmann.
+- "[On the Combinatorial Art][404]" (1666) by Gottfried Leibniz.
 - ~~Selections from Bright, Timothe. [*Characterie: An Arte of Shorts, Swifte and Secrete
   Writing by Character*][401],  I. Windet, 1588.~~
 - **Explore**: [*An Essay Towards a Real Character, and a Philosophical Language*][405] (London,
