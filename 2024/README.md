@@ -63,7 +63,7 @@ not worth the risk. Consult Columbia’s guidelines at
 <http://www.college.columbia.edu/academics/integrity> or ask me for help early in the
 writing process.
 
-## Provisional Schedule & Reading List
+# Provisional Schedule & Reading List
 
 ### Week 0 (Jan 17th)
 
@@ -83,7 +83,7 @@ Introductions. Structure of the class.
 
 ## Part I: Chance & Divination
 
-## Week 2
+### Week 2
 
 - Tedlock, Barbara. “[Divination as a Way of Knowing: Embodiment, Visualisation,
   Narrative, and Interpretation][201].” Folklore 112, no. 2 (January 1, 2001): 189–97.
