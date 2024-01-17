@@ -199,8 +199,6 @@ Springfield, MA: The Home Correspondence School, 1920.~
 - ~Wharton, Edith. “The Writing of Fiction: Telling a Short Story.” Scribners, April 1925,
   344–49.~
 
-!!! In-class midterm scheduled for March 9. Details to follow. 
-  
   [701]: https://courseworks2.columbia.edu/files/13329309/download?download_frd=1
   [703]: https://courseworks2.columbia.edu/files/13329318/download?download_frd=1
   [705]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-core/content/view/EA1E005FA0BC4522399A4E9DA0304862/S0269889706001074a.pdf/an_example_of_statistical_investigation_of_the_text_eugene_onegin_concerning_the_connection_of_samples_in_chains.pdf
