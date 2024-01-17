@@ -83,9 +83,27 @@ Introductions. Structure of the class.
 
 ## Part I: Chance Divination
 
+## Week 2
+
+- Tedlock, Barbara. “[Divination as a Way of Knowing: Embodiment, Visualisation,
+  Narrative, and Interpretation][201].” Folklore 112, no. 2 (January 1, 2001): 189–97.
+- "[Introduction to Thought and Mantic Arts][203]" by Zhao Lu in the *Handbook of
+  Divination and Prognostication in China*, eds. Michael Lackner and Zhao Lu (Brill,
+  2022).
+- "[A Reconsideration of the Pythia's Use of Lots: Constraints and Chance in Delphic
+  Divination][202]" by Lisa Maurizio in *Ancient Divination and Experience* eds.
+  Driediger-Murphy, Lindsay, and Esther Eidinow (Oxford UP, 2019).
+- Graf, Fritz. “[Rolling the Dice for an Answer][204].” In Mantikê: Studies in Ancient
+  Divination, edited by Sarah Iles Johnston and Peter T. Struck, 51–97 (Brill, 2005).
+
+  [201]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/1260832
+  [202]: https://courseworks2.columbia.edu/courses/191258/files?preview=19715870
+  [203]: https://brill.com/display/book/edcoll/9789004514263/BP000010.xml
+  [204]: https://web-p-ebscohost-com.ezproxy.cul.columbia.edu/ehost/ebookviewer/ebook/ZTAyNXhuYV9fMTczODgyX19BTg2?sid=002971b9-61dc-4012-b521-4c377cf13bc9@redis&vid=0&format=EB&rid=1
+
 ## Part II: Combinatorial Imagination
 
-### Week 4
+### Week 3
 
 - **Explore**: "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][202] and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][203]
 - For background browse Chapter 2, pages 40-69 in Truitt, E. R. [*Medieval Robots: Mechanism, Magic, Nature, and Art*][204] .
@@ -93,47 +111,45 @@ Introductions. Structure of the class.
   
 By "explore" I mean try to understand the work as a system, dipping into the text for close reading or browsing where appropriate.
   
-  [201]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320901 
-  [202]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320924
-  [203]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320935
-  [204]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320948
+  [301]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320901 
+  [302]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320924
+  [303]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320935
+  [304]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320948
   
-### Week 5
+### Week 4
 
-- "[On the Combinatorial Art][304]" (1666) by Gottfried Leibniz.
-- "[Love-Kiss XLI][303]" (1671) by Quirinus Kuhlmann.
+- "[On the Combinatorial Art][404]" (1666) by Gottfried Leibniz.
+- "[Love-Kiss XLI][403]" (1671) by Quirinus Kuhlmann.
 - ~~Selections from Bright, Timothe. [*Characterie: An Arte of Shorts, Swifte and Secrete
-  Writing by Character*][301],  I. Windet, 1588.~~
-- **Explore**: [*An Essay Towards a Real Character, and a Philosophical Language*][305] (London,
+  Writing by Character*][401],  I. Windet, 1588.~~
+- **Explore**: [*An Essay Towards a Real Character, and a Philosophical Language*][405] (London,
   1668) by John Wilkins, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages
 1-5), and Part 4 Chapter 1-2 (pages 385-413).
-- [Garden and Labyrinth of Time][306] (1988) by Gerald Gillespie.
 
-[301]: http://gateway.proquest.com.ezproxy.cul.columbia.edu/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:image:11523
-[302]: https://courseworks2.columbia.edu/files/6929616/download?download_frd=1
-[303]: https://www.jstor.org/stable/25706521
-[304]: https://courseworks2.columbia.edu/files/13328741/download?download_frd=1
-[305]: https://archive.org/download/AnEssayTowardsARealCharacterAndAPhilosophicalLanguage/An_Essay_Towards_a_Real_Character_and_a.pdf
-[306]: https://courseworks2.columbia.edu/files/13328738/download?download_frd=1
+[401]: http://gateway.proquest.com.ezproxy.cul.columbia.edu/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:image:11523
+[402]: https://courseworks2.columbia.edu/files/6929616/download?download_frd=1
+[403]: https://www.jstor.org/stable/25706521
+[404]: https://courseworks2.columbia.edu/files/13328741/download?download_frd=1
+[405]: https://archive.org/download/AnEssayTowardsARealCharacterAndAPhilosophicalLanguage/An_Essay_Towards_a_Real_Character_and_a.pdf
+[406]: https://courseworks2.columbia.edu/files/13328738/download?download_frd=1
 
 ## Part III: Industrial Manufacture
 
-### Week 4
+### Week 5
 
 - "On the Universal Characteristic" (pages 221-229), "On Universal Synthesis and Analysis"
   (pages 229-235), and "Letter to John Fredrick, Duke of Brunswick-Hanover" (pages 259-263) in
-[*Philosophical Papers and Letters*][405] by Leibniz.
-- "The Book of the Machines" chapters (ch. 23-25) in Samuel Butler's [*Erewhon*][403] (1872).
+[*Philosophical Papers and Letters*][505] by Leibniz.
 - **Explore**: "[Sketch of The Analytical Engine Invented by Charles Babbage By L. F. MENABREA
   of Turin, Officer of the Military Engineers from the Bibliothèque Universelle de Genève,
 October, 1842, No. 82 With notes upon the Memoir by the Translator Ada Augusta, Countess of
-Lovelace][404]."
+Lovelace][504]."
 
-[401]: https://courseworks2.columbia.edu/files/6861048/download?download_frd=1
-[402]: https://www.tandfonline.com/doi/full/10.1080/02666286.2014.954809
-[403]: https://courseworks2.columbia.edu/files/13328964/download?download_frd=1
-[404]: https://courseworks2.columbia.edu/files/13328962/download?download_frd=1
-[405]: https://courseworks2.columbia.edu/files/13328955/download?download_frd=1
+[501]: https://courseworks2.columbia.edu/files/6861048/download?download_frd=1
+[502]: https://www.tandfonline.com/doi/full/10.1080/02666286.2014.954809
+[503]: https://courseworks2.columbia.edu/files/13328964/download?download_frd=1
+[504]: https://courseworks2.columbia.edu/files/13328962/download?download_frd=1
+[505]: https://courseworks2.columbia.edu/files/13328955/download?download_frd=1
 
 ### Week 5
 
