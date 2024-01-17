@@ -11,7 +11,7 @@
 
 | Name          | Time        | Location         |
 | --------------|-------------| ---------------- |
-| Dennis YT     | W 4--5pm    | Philosoophy 408e |
+| Dennis YT     | W 4--5pm    | Philosophy 408e  |
 | Patrick A     | Th 12--1pm  |                  |
 
 In this course we will consider the long history of literature composed with, for, and by
