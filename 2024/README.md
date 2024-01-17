@@ -81,7 +81,7 @@ Introductions. Structure of the class.
 [102]: https://www.sciencedirect.com/science/article/pii/0364021395900209
 [103]: https://courseworks2.columbia.edu/courses/191258/files?preview=19699518
 
-## Part I: Chance Divination
+## Part I: Chance & Divination
 
 ## Week 2
 
@@ -101,7 +101,7 @@ Introductions. Structure of the class.
   [203]: https://brill.com/display/book/edcoll/9789004514263/BP000010.xml
   [204]: https://web-p-ebscohost-com.ezproxy.cul.columbia.edu/ehost/ebookviewer/ebook/ZTAyNXhuYV9fMTczODgyX19BTg2?sid=002971b9-61dc-4012-b521-4c377cf13bc9@redis&vid=0&format=EB&rid=1
 
-## Part II: Combinatorial Imagination
+## Part II: Combinatorial Systems
 
 ### Week 3
 
