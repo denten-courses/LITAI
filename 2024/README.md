@@ -7,14 +7,14 @@
 > MW 2:40 - 3:55pm  
 > 5AB KRAFT CENTER
 
-## Office Hours
+### Office Hours
 
 | Name          | Time        | Location         |
 | --------------|-------------| ---------------- |
 | Dennis YT     | W 4--5pm    | Philosophy 408e  |
 | Patrick A     | Th 12--1pm  |                  |
 
-## Course Description
+### Course Description
 
 In this course we will consider the long history of literature composed with, for, and by
 machines. Our reading list will start with Ramon Llull, the thirteenth-century combinatorial
@@ -34,7 +34,7 @@ in exploring the technical manifestations of generative poetics and creativity.
 Contact information is posted on our [Coursework page](https://courseworks2.columbia.edu/courses/143944).
 All readings linked from this page. Please print and bring to class when possible.
 
-## Course Requirements & Grading
+### Course Requirements & Grading
 
 Weekly lectures will be followed by occasional hands-on lab sessions (usually involving pen and paper). 
 Students will be expected to keep up with a moderate reading load, to attend weekly lectures, and to participate in the class
@@ -53,7 +53,7 @@ others as well as to write new posts. In either case, stay close to the text by 
 specific passages. A good response will elicit conversation, ask questions, express
 puzzlement or illuminate particularly lucid moments of the work.
 
-## Class and University Policies
+### Class and University Policies
 
 **The usage of electronic devices is strongly discouraged in the classroom.**
 
