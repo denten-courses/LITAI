@@ -12,7 +12,7 @@
 | Name          | Time        | Location         |
 | --------------|-------------| ---------------- |
 | Dennis YT     | W 4--5pm    | Philosophy 408e  |
-| Patrick A     | Tu 1--3pm   |                  |
+| Patrick A     | Tu 1--3pm   | Philosophy 408e  |
 | Julia W       | Th 12-2pm   | Philosophy 408e  |
 
 ### Course Description
@@ -116,10 +116,10 @@ Introductions. Structure of the class.
   Mechanism, Magic, Nature, and Art*][304] (University of Pennsylvania Press, 2016). I
   suggest you do not write your weekly response post on this text.
 
-  [301]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320901 
-  [302]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320924
-  [303]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320935
-  [304]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320948
+  [301]: https://courseworks2.columbia.edu/courses/191258/files?preview=19726825 
+  [302]: https://courseworks2.columbia.edu/courses/191258/files?preview=19726825
+  [303]: https://courseworks2.columbia.edu/courses/191258/files?preview=19726826
+  [304]: https://courseworks2.columbia.edu/courses/191258/files?preview=19726912
   [305]: https://courseworks2.columbia.edu/courses/191258/files?preview=19717050
 
 ### Week 4
