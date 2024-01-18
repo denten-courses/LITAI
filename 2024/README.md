@@ -100,7 +100,7 @@ Introductions. Structure of the class.
   [201]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/1260832
   [202]: https://courseworks2.columbia.edu/courses/191258/files?preview=19715870
   [203]: https://brill.com/display/book/edcoll/9789004514263/BP000010.xml
-  [204]: https://web-p-ebscohost-com.ezproxy.cul.columbia.edu/ehost/ebookviewer/ebook/ZTAyNXhuYV9fMTczODgyX19BTg2?sid=002971b9-61dc-4012-b521-4c377cf13bc9@redis&vid=0&format=EB&rid=1
+  [204]: https://courseworks2.columbia.edu/courses/191258/files?preview=19727247
 
 ## Part II: Combinatorial Systems
 
