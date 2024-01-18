@@ -120,7 +120,7 @@ Introductions. Structure of the class.
   [302]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320924
   [303]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320935
   [304]: https://courseworks2.columbia.edu/courses/143944/files?preview=13320948
-  [305]: https://courseworks2.columbia.edu/files/19716418/download?download_frd=1
+  [305]: https://courseworks2.columbia.edu/courses/191258/files?preview=19717050
 
 ### Week 4
 
