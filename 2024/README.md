@@ -135,7 +135,7 @@ Introductions. Structure of the class.
 [401]: http://gateway.proquest.com.ezproxy.cul.columbia.edu/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:image:11523
 [402]: https://courseworks2.columbia.edu/files/6929616/download?download_frd=1
 [403]: https://www.jstor.org/stable/25706521
-[404]: https://courseworks2.columbia.edu/files/13328741/download?download_frd=1
+[404]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737586
 [405]: https://archive.org/download/AnEssayTowardsARealCharacterAndAPhilosophicalLanguage/An_Essay_Towards_a_Real_Character_and_a.pdf
 [406]: https://courseworks2.columbia.edu/files/13328738/download?download_frd=1
 
