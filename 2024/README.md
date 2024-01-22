@@ -78,6 +78,9 @@ Introductions. Structure of the class.
 - Hutchins, Edwin. "[How a Cockpit Remembers Its Speeds][102].' *Cognitive Science* 19,
   no. 3 (July 1, 1995): 265–88.
 
+  Bonus: Rene Descartes, [Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
+(1639).
+
 [101]: https://courseworks2.columbia.edu/courses/191258/files?preview=19699063
 [102]: https://www.sciencedirect.com/science/article/pii/0364021395900209
 [103]: https://courseworks2.columbia.edu/courses/191258/files?preview=19699518
@@ -106,7 +109,7 @@ Introductions. Structure of the class.
 
 ### Week 3
 
-- "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][302]
+- Explore "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][302]
   and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][303]
 - "The Real Meaning of Prophesy, Soothsaying, Dream Visions, Dream Words, Divination,
   Supernatural Perception, Geomancy, The Za'irajah" by Ibn Khaldun translated Franz
