@@ -9,10 +9,10 @@
 
 ### Office Hours
 
-| Name          | Time        | Location         |
+| Name          | Time        | Location         | 
 | --------------|-------------| ---------------- |
 | Dennis YT     | W 4--5pm    | Philosophy 408e  |
-| Patrick A     | Tu 1--3pm   | Philosophy 408e  |
+| Patrick A     | Tu 1--3pm   | Philosophy 408e  |  by appointment: email me by Monday night if you would like to meet 
 | Julia W       | Th 12-2pm   | Philosophy 408e  |
 
 ### Course Description
