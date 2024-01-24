@@ -98,13 +98,15 @@ Introductions. Structure of the class.
 - Graf, Fritz. “[Rolling the Dice for an Answer][204].” In Mantikê: Studies in Ancient
   Divination, edited by Sarah Iles Johnston and Peter T. Struck, 51–97 (Brill, 2005).
 
-  Watch: [Origami - How to use and play with a Fortune Teller (Paku-Paku)][205] by cozyandwarm on Youtube.
+  Watch: [Origami - How to use and play with a Fortune Teller (Paku-Paku)][205] by cozyandwarm on Youtube. [Traditional Chinese Fortune Telling][206] by Real Life Cinema. [Yarrow stalk divination with the Book of Changes with Prof. Richard Ho][207].
 
   [201]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/1260832
   [202]: https://courseworks2.columbia.edu/courses/191258/files?preview=19777362
   [203]: https://brill.com/display/book/edcoll/9789004514263/BP000010.xml
   [204]: https://courseworks2.columbia.edu/courses/191258/files?preview=19727247
   [205]: https://www.youtube.com/watch?v=X1DArckNWdM
+  [206]: https://www.youtube.com/watch?v=kF78YrHiV7s
+  [207]: https://www.youtube.com/watch?v=KsD-kjFXpwM
 
 ## Part II: Combinatorial Systems
 
