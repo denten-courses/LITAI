@@ -60,9 +60,8 @@ puzzlement or illuminate particularly lucid moments of the work.
 
 When in doubt, cite! Plagiarism is insulting to your fellow students, your instructors,
 and to the research community at large. It wastes my time and yours, and is, ultimately,
-not worth the risk. Consult Columbia’s guidelines at
-<http://www.college.columbia.edu/academics/integrity> or ask me for help early in the
-writing process.
+not worth the risk. Consult Columbia’s guidelines at <http://www.college.columbia.edu/academics/integrity> 
+or ask me for help early in the writing process.
 
 # Provisional Schedule & Reading List
 
@@ -72,8 +71,7 @@ Introductions. Structure of the class.
 
 ### Week 1: Introduction
 
-- Chapter 1: "[Institute for the Study of Machine Literature][103]" from *Author Function* by
-  Dennis Yi Tenen (forthcoming w/ Chicago UP).
+- Chapter 1: "[Institute for the Study of Machine Literature][103]" from *Author Function* by Dennis Yi Tenen (forthcoming w/ Chicago UP).
 - Plato's [*Phaedrus*][101]
 - Hutchins, Edwin. "[How a Cockpit Remembers Its Speeds][102].' *Cognitive Science* 19,
   no. 3 (July 1, 1995): 265–88.
