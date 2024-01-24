@@ -9,11 +9,14 @@
 
 ### Office Hours
 
-| Name          | Time        | Location         | 
-| --------------|-------------| ---------------- |
-| Dennis YT     | W 4--5pm    | Philosophy 408e  |
-| Patrick A     | Tu 1--3pm   | Philosophy 408e  |   
-| Julia W       | Th 12-2pm   | Philosophy 408e  |
+| Name          | Time        | Location         | Email   |
+| --------------|-------------| ---------------- |---------|
+| Dennis YT     | W 4-5pm    | Philosophy 408e  | dt2406@columbia.edu |
+| Patrick A     | Tu 1-3pm   | Philosophy 408e  | pa2525@columbia.edu |
+| Julia W       | Th 12-2pm   | Philosophy 408e  | jmw2300@columbia.edu|
+
+> [!NOTE]
+> Please email ahead of time if you would like to meet with Patrick or Julia.
 
 ### Course Description
 
