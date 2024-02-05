@@ -135,9 +135,11 @@ Introductions. Structure of the class.
 ### Week 4
 
 - "[Love-Kiss XLI][403]" (1671) by Quirinus Kuhlmann.
+- Kircher
 - "[On the Combinatorial Art][404]" (1666) by Gottfried Leibniz.
-- ~~Selections from Bright, Timothe. [*Characterie: An Arte of Shorts, Swifte and Secrete
-  Writing by Character*][401],  I. Windet, 1588.~~
+- "On the Universal Characteristic" (pages 221-229), "On Universal Synthesis and Analysis"
+  (pages 229-235), and "Letter to John Fredrick, Duke of Brunswick-Hanover" (pages 259-263) in
+[*Philosophical Papers and Letters*][505] by Leibniz.
 - **Explore**: [*An Essay Towards a Real Character, and a Philosophical Language*][405] (London,
   1668) by John Wilkins, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages
 1-5), and Part 4 Chapter 1-2 (pages 385-413).
@@ -149,17 +151,6 @@ Introductions. Structure of the class.
 [405]: https://archive.org/download/AnEssayTowardsARealCharacterAndAPhilosophicalLanguage/An_Essay_Towards_a_Real_Character_and_a.pdf
 [406]: https://courseworks2.columbia.edu/files/13328738/download?download_frd=1
 
-## Part III: Industrial Manufacture
-
-### Week 5
-
-- "On the Universal Characteristic" (pages 221-229), "On Universal Synthesis and Analysis"
-  (pages 229-235), and "Letter to John Fredrick, Duke of Brunswick-Hanover" (pages 259-263) in
-[*Philosophical Papers and Letters*][505] by Leibniz.
-- **Explore**: "[Sketch of The Analytical Engine Invented by Charles Babbage By L. F. MENABREA
-  of Turin, Officer of the Military Engineers from the Bibliothèque Universelle de Genève,
-October, 1842, No. 82 With notes upon the Memoir by the Translator Ada Augusta, Countess of
-Lovelace][504]."
 
 [501]: https://courseworks2.columbia.edu/files/6861048/download?download_frd=1
 [502]: https://www.tandfonline.com/doi/full/10.1080/02666286.2014.954809
@@ -167,7 +158,19 @@ Lovelace][504]."
 [504]: https://courseworks2.columbia.edu/files/13328962/download?download_frd=1
 [505]: https://courseworks2.columbia.edu/files/13328955/download?download_frd=1
 
+## Part III: Industrial Manufacture
+
 ### Week 5
+
+- Lovelace & Babbage
+- 
+**Explore**: "[Sketch of The Analytical Engine Invented by Charles Babbage By L. F. MENABREA
+  of Turin, Officer of the Military Engineers from the Bibliothèque Universelle de Genève,
+October, 1842, No. 82 With notes upon the Memoir by the Translator Ada Augusta, Countess of
+Lovelace][504]."
+
+
+### Week 6
 
 - "Introduction" in Brewster, William Tenney. [*Specimens of Narration*][502]. H. Holt, 1895.
 - "From the [*Technique of the Drama: An Exposition of Dramatic Composition and Art*][503]
@@ -182,7 +185,9 @@ well to get a sense of what is being suggested.
   [502]: https://courseworks2.columbia.edu/files/13329010/download?download_frd=1
   [503]: https://courseworks2.columbia.edu/files/13328978/download?download_frd=1
 
-### Week 6
+## Part IV: Structuralism
+
+### Week 7
 
 - "Introduction" in Polti, Georges, and Lucille Ray. [*The Thirty-Six Dramatic
   Situations*][601]. Ridgewood, NJ: Editor Company, 1916. **Explore** several of the "situations"
@@ -197,7 +202,7 @@ Press, 1968.
   [603]: https://courseworks2.columbia.edu/files/13329241/download?download_frd=1
   
 
-### Week 7
+### Week 8
 
 - ~"Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
   Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.~
@@ -214,7 +219,7 @@ Springfield, MA: The Home Correspondence School, 1920.~
   [703]: https://courseworks2.columbia.edu/files/13329318/download?download_frd=1
   [705]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-core/content/view/EA1E005FA0BC4522399A4E9DA0304862/S0269889706001074a.pdf/an_example_of_statistical_investigation_of_the_text_eugene_onegin_concerning_the_connection_of_samples_in_chains.pdf
 
-### Week 8
+### Week 9
 
 - "Web-Work Plot Structure" in *The Student Writer* Volume II, Numbers 6&7, June and July 1917.
   (Contained in the first 25 pages of the [linked document][801]).
@@ -230,7 +235,7 @@ Cook. **Explore** the rest of the volume.
 [802]: https://courseworks2.columbia.edu/files/13329354/download?download_frd=1
 [803]: https://patents.google.com/patent/US1716069A/en
 
-### Week 9
+### Week 10
 
 - Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
 - Pages 127-150 from [*The Language And Thought Of The Child*][903] (1926) by Jean Piaget.
@@ -242,20 +247,14 @@ Cook. **Explore** the rest of the volume.
 [903]: https://courseworks2.columbia.edu/files/13329336/download?download_frd=1
 
 
-## Part IV: Structuralism
 
-- Book III in Aristotle's [*Rhetoric*][201] (367-347 BCE).
-- Aristotle's [*Poetics*][102] (335 BCE), pages 85-132 in the linked edition.
 
-[101]: https://courseworks2.columbia.edu/courses/143944/files?preview=13263437
-[102]: https://courseworks2.columbia.edu/courses/143944/files?preview=13263435
 
 
 ## Part V: Probabilistic Methods
 
 
-
-### Week 10
+### Week 12
 
 - ["Computing Machinery and Intelligence"][1001] by Alan Turing in *Mind* Vol. 59, No. 236
   (Oct., 1950): 433-460.
@@ -275,7 +274,7 @@ Cook. **Explore** the rest of the volume.
 [1005]: https://courseworks2.columbia.edu/files/13329459/download?download_frd=1
 [1006]: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 
-### Week 11
+### Week 13
 
 - Weizenbaum, Joseph. [“ELIZA—a Computer Program for the Study of Natural Language Communication
   Between Man and Machine.”][1101] *Communication of the ACM* 9, no. 1 (January 1966): 36–45.
@@ -290,7 +289,7 @@ of Computer Sciences, 1974.
   [1102]: https://courseworks2.columbia.edu/files/13329525/download?download_frd=1
   [1103]: https://courseworks2.columbia.edu/files/13329452/download?download_frd=1
 
-### Week 12
+### Week 14
 
 - Selections from Reichardt, Jasia. [*Cybernetic Serendipity: The Computer and the Arts*.][1201]
   London, UK: Studio International, 1970.
@@ -304,7 +303,7 @@ New York, NY: Grand Central Pub, 1984.
 [1202]: https://courseworks2.columbia.edu/files/13329471/download?download_frd=1
 [1203]: https://courseworks2.columbia.edu/files/13329501/download?download_frd=1
 
-### Week 13
+### Week 15
 
 - Clark, Peter. [“Story Generation and Aviation Incident Representation.”][1301] ArXiv:1802.04818 [Cs],
   1999.
@@ -316,7 +315,7 @@ New York, NY: Grand Central Pub, 1984.
   [1302]: https://courseworks2.columbia.edu/files/13329476/download?download_frd=1
   [1303]: https://courseworks2.columbia.edu/files/13329392/download?download_frd=1
 
-### Week 14
+### Week 16
 
 - Robertson, Judy, and Judith Good. [“Story Creation in Virtual Game Worlds.”][1401] *Commun. ACM* 48,
   no. 1 (January 2005): 61–65.
