@@ -167,7 +167,7 @@ Introductions. Structure of the class.
 **Explore**: "[Sketch of The Analytical Engine Invented by Charles Babbage By L. F. MENABREA
   of Turin, Officer of the Military Engineers from the Bibliothèque Universelle de Genève,
 October, 1842, No. 82 With notes upon the Memoir by the Translator Ada Augusta, Countess of
-Lovelace][504]."
+Lovelace][504]." (Must "download" after opening to view content of file)
 
 
 ### Week 6
