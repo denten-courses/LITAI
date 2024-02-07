@@ -143,7 +143,7 @@ Introductions. Structure of the class.
 - **Explore**: [*An Essay Towards a Real Character, and a Philosophical Language*][405] (London,
   1668) by John Wilkins, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages
 1-5), and Part 4 Chapter 1-2 (pages 385-413).
-- Amelia Soth, ["Althanasius Kircher's 'Musical Ark'"][407] JSTOR Daily 
+- **Explore**: Amelia Soth, ["Althanasius Kircher's 'Musical Ark'"][407] JSTOR Daily 
 
 [401]: http://gateway.proquest.com.ezproxy.cul.columbia.edu/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:image:11523
 [402]: https://courseworks2.columbia.edu/files/6929616/download?download_frd=1
