@@ -155,7 +155,7 @@ Introductions. Structure of the class.
 [501]: https://courseworks2.columbia.edu/files/6861048/download?download_frd=1
 [502]: https://www.tandfonline.com/doi/full/10.1080/02666286.2014.954809
 [503]: https://courseworks2.columbia.edu/files/13328964/download?download_frd=1
-[504]: https://courseworks2.columbia.edu/files/13328962/download?download_frd=1
+[504]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737600
 [505]: https://courseworks2.columbia.edu/courses/191258/files?preview=19933415
 
 ## Part III: Industrial Manufacture
