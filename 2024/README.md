@@ -149,7 +149,7 @@ Introductions. Structure of the class.
 
 ## Week 5
 
-- - "On the Universal Characteristic" (pages 221-229), "On Universal Synthesis and Analysis"
+- "On the Universal Characteristic" (pages 221-229), "On Universal Synthesis and Analysis"
   (pages 229-235), and "Letter to John Fredrick, Duke of Brunswick-Hanover" (pages 259-263) in
 [*Philosophical Papers and Letters*][501] by Leibniz.
 
