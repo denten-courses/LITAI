@@ -137,7 +137,7 @@ Introductions. Structure of the class.
 - "[Love-Kiss XLI][403]" (1671) by Quirinus Kuhlmann.
 - "[On the Combinatorial Art][404]" (1666) by Gottfried Leibniz.
 
-- **Explore**: [*Organum Mathematicum*][409] by Athanasius Kircher, Room Vi, Museo Galileo. Amelia Soth, ["Althanasius Kircher's 'Musical Ark'"][407] JSTOR Daily.
+**Explore**: [*Organum Mathematicum*][409] by Athanasius Kircher, Room Vi, Museo Galileo. Amelia Soth, ["Althanasius Kircher's 'Musical Ark'"][407] JSTOR Daily.
 
 [401]: http://gateway.proquest.com.ezproxy.cul.columbia.edu/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:image:11523
 [402]: https://courseworks2.columbia.edu/files/6929616/download?download_frd=1
