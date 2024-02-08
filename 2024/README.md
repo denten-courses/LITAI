@@ -35,7 +35,7 @@ appeal to technologists seeking to gain a deeper, cultural understanding of thei
 historical context; and to those students in the humanities or the social sciences interested
 in exploring the technical manifestations of generative poetics and creativity.
 
-Contact information is posted on our [Coursework page](https://courseworks2.columbia.edu/courses/143944).
+Contact information is posted on our [Courseworks page](https://courseworks2.columbia.edu/courses/143944).
 All readings linked from this page. Please print and bring to class when possible.
 
 ### Course Requirements & Grading
@@ -101,7 +101,7 @@ Introductions. Structure of the class.
 - Graf, Fritz. “[Rolling the Dice for an Answer][204].” In Mantikê: Studies in Ancient
   Divination, edited by Sarah Iles Johnston and Peter T. Struck, 51–97 (Brill, 2005).
 
-  Explore: [Origami - How to use and play with a Fortune Teller (Paku-Paku)][205] by cozyandwarm on Youtube. [Traditional Chinese Fortune Telling][206] by Real Life Cinema. [Yarrow stalk divination with the Book of Changes with Prof. Richard Ho][207]. [Witchcraft Among the Azande][208] based on Evans-Ptitchard (from the Maurizio reading). Shagai or Chuko ankle bone games.
+  Explore: [Origami - How to use and play with a Fortune Teller (Paku-Paku)][205] by cozyandwarm on YouTube. [Traditional Chinese Fortune Telling][206] by Real Life Cinema. [Yarrow stalk divination with the Book of Changes with Prof. Richard Ho][207]. [Witchcraft Among the Azande][208] based on Evans-Pritchard (from the Maurizio reading). Shagai or Chuko ankle bone games.
 
   [201]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/1260832
   [202]: https://courseworks2.columbia.edu/courses/191258/files?preview=19777362
@@ -121,7 +121,7 @@ Introductions. Structure of the class.
 - "The Real Meaning of Prophesy, Soothsaying, Dream Visions, Dream Words, Divination,
   Supernatural Perception, Geomancy, The Za'irajah" by Ibn Khaldun translated Franz
   Rozenthal in [*The Muqqaddimah*][305], Volume 1 (Princeton UP, 1958[1377]). Pages
-  184--245.
+  184-245.
 - For background browse Chapter 2, pages 40-69 in Truitt, E. R. [*Medieval Robots:
   Mechanism, Magic, Nature, and Art*][304] (University of Pennsylvania Press, 2016). I
   suggest you do not write your weekly response post on this text.
@@ -312,8 +312,8 @@ New York, NY: Grand Central Pub, 1984.
 - Clark, Peter. [“Story Generation and Aviation Incident Representation.”][1301] ArXiv:1802.04818 [Cs],
   1999.
 - Lakoff, George. [“Structural Complexity in Fairy Tales,”][1302] 1964 1972.  
-- Simmons, R., and J.  Slocum. [“Generating English Discourse from Semantic Networks.”][1303] Commun.
-  ACM 15, no. 10 (October 1972): 891–905.
+- Simmons, R., and J.  Slocum. [“Generating English Discourse from Semantic Networks.”][1303] *Commun.
+  ACM* 15, no. 10 (October 1972): 891–905.
   
   [1301]: https://courseworks2.columbia.edu/files/13329473/download?download_frd=1
   [1302]: https://courseworks2.columbia.edu/files/13329476/download?download_frd=1
