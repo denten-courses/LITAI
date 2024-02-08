@@ -134,18 +134,15 @@ Introductions. Structure of the class.
 
 ### Week 4
 
-- "[Love-Kiss XLI][403]" (1671) by Quirinus Kuhlmann.
-- "[On the Combinatorial Art][404]" (1666) by Gottfried Leibniz.
+- "[Love-Kiss XLI][401]" (1671) by Quirinus Kuhlmann.
+- "[On the Combinatorial Art][402]" (1666) by Gottfried Leibniz.
 
-**Explore**: [*Organum Mathematicum*][409] by Athanasius Kircher, Room Vi, Museo Galileo. Amelia Soth, ["Althanasius Kircher's 'Musical Ark'"][407] JSTOR Daily.
+**Explore**: [*Organum Mathematicum*][404] by Athanasius Kircher, Room Vi, Museo Galileo. Amelia Soth, ["Althanasius Kircher's 'Musical Ark'"][403] JSTOR Daily.
 
-[401]: http://gateway.proquest.com.ezproxy.cul.columbia.edu/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:image:11523
-[402]: https://courseworks2.columbia.edu/files/6929616/download?download_frd=1
-[403]: https://www.jstor.org/stable/25706521
-[404]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737586
-[406]: https://courseworks2.columbia.edu/files/13328738/download?download_frd=1
-[407]: https://daily.jstor.org/athanasius-kirchers-musical-ark/
-[409]: https://catalogue.museogalileo.it/object/OrganumMathematicum.html
+[401]: https://www.jstor.org/stable/25706521
+[402]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737586
+[403]: https://daily.jstor.org/athanasius-kirchers-musical-ark/
+[404]: https://catalogue.museogalileo.it/object/OrganumMathematicum.html
 
 ## Week 5
 
@@ -171,8 +168,9 @@ Introductions. Structure of the class.
 - "[Sketch of The Analytical Engine Invented by Charles Babbage By L. F. MENABREA
   of Turin, Officer of the Military Engineers from the Bibliothèque Universelle de Genève,
 October, 1842, No. 82 With notes upon the Memoir by the Translator Ada Augusta, Countess of
-Lovelace][504]." (Must "download" after opening to view content of file)
+Lovelace][601]." (Must "download" after opening to view content of file)
 
+[601]:https://courseworks2.columbia.edu/courses/191258/files?preview=19737600
 
 ### Week 7
 
