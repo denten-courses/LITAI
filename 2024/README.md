@@ -135,38 +135,38 @@ Introductions. Structure of the class.
 ### Week 4
 
 - "[Love-Kiss XLI][403]" (1671) by Quirinus Kuhlmann.
-- Kircher
 - "[On the Combinatorial Art][404]" (1666) by Gottfried Leibniz.
-- "On the Universal Characteristic" (pages 221-229), "On Universal Synthesis and Analysis"
-  (pages 229-235), and "Letter to John Fredrick, Duke of Brunswick-Hanover" (pages 259-263) in
-[*Philosophical Papers and Letters*][505] by Leibniz.
-- **Explore**: [*An Essay Towards a Real Character, and a Philosophical Language*][405] (London,
-  1668) by John Wilkins, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages
-1-5), and Part 4 Chapter 1-2 (pages 385-413).
-- **Explore**: Amelia Soth, ["Althanasius Kircher's 'Musical Ark'"][407] JSTOR Daily 
+
+- **Explore**: [*Organum Mathematicum*][409] by Athanasius Kircher, Room Vi, Museo Galileo. Amelia Soth, ["Althanasius Kircher's 'Musical Ark'"][407] JSTOR Daily.
 
 [401]: http://gateway.proquest.com.ezproxy.cul.columbia.edu/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:image:11523
 [402]: https://courseworks2.columbia.edu/files/6929616/download?download_frd=1
 [403]: https://www.jstor.org/stable/25706521
 [404]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737586
-[405]: https://archive.org/download/AnEssayTowardsARealCharacterAndAPhilosophicalLanguage/An_Essay_Towards_a_Real_Character_and_a.pdf
 [406]: https://courseworks2.columbia.edu/files/13328738/download?download_frd=1
 [407]: https://daily.jstor.org/athanasius-kirchers-musical-ark/
+[409]: https://catalogue.museogalileo.it/object/OrganumMathematicum.html
 
+## Week 5
 
-[501]: https://courseworks2.columbia.edu/files/6861048/download?download_frd=1
-[502]: https://www.tandfonline.com/doi/full/10.1080/02666286.2014.954809
-[503]: https://courseworks2.columbia.edu/files/13328964/download?download_frd=1
-[504]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737600
-[505]: https://courseworks2.columbia.edu/courses/191258/files?preview=19933415
+- - "On the Universal Characteristic" (pages 221-229), "On Universal Synthesis and Analysis"
+  (pages 229-235), and "Letter to John Fredrick, Duke of Brunswick-Hanover" (pages 259-263) in
+[*Philosophical Papers and Letters*][501] by Leibniz.
+
+**Explore**: [*An Essay Towards a Real Character, and a Philosophical Language*][405] (London,
+  1668) by John Wilkins, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages
+1-5), and Part 4 Chapter 1-2 (pages 385-413). 
+
+[502]:https://archive.org/download/AnEssayTowardsARealCharacterAndAPhilosophicalLanguage/An_Essay_Towards_a_Real_Character_and_a.pdf
+[501]: https://courseworks2.columbia.edu/courses/191258/files?preview=19933415
+
 
 ## Part III: Industrial Manufacture
 
 ### Week 5
 
 - Lovelace & Babbage
-- 
-**Explore**: "[Sketch of The Analytical Engine Invented by Charles Babbage By L. F. MENABREA
+- "[Sketch of The Analytical Engine Invented by Charles Babbage By L. F. MENABREA
   of Turin, Officer of the Military Engineers from the Bibliothèque Universelle de Genève,
 October, 1842, No. 82 With notes upon the Memoir by the Translator Ada Augusta, Countess of
 Lovelace][504]." (Must "download" after opening to view content of file)
