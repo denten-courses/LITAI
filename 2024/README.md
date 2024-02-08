@@ -160,7 +160,7 @@ Introductions. Structure of the class.
 
 [502]:https://archive.org/download/AnEssayTowardsARealCharacterAndAPhilosophicalLanguage/An_Essay_Towards_a_Real_Character_and_a.pdf
 [501]: https://courseworks2.columbia.edu/courses/191258/files?preview=19933415
-[503]: https://ia601901.us.archive.org/11/items/in.ernet.dli.2015.6531/2015.6531.Thesaurus-Of-English-Words-And-Phrases_text.pdf
+[503]: https://courseworks2.columbia.edu/courses/191258/files?preview=19947190
 
 
 ## Part III: Industrial Manufacture
