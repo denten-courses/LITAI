@@ -153,7 +153,7 @@ Introductions. Structure of the class.
   (pages 229-235), and "Letter to John Fredrick, Duke of Brunswick-Hanover" (pages 259-263) in
 [*Philosophical Papers and Letters*][501] by Leibniz.
 
-**Explore**: [*An Essay Towards a Real Character, and a Philosophical Language*][405] (London,
+**Explore**: [*An Essay Towards a Real Character, and a Philosophical Language*][502] (London,
   1668) by John Wilkins, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages
 1-5), and Part 4 Chapter 1-2 (pages 385-413). 
 
