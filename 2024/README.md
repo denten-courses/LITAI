@@ -152,6 +152,7 @@ Introductions. Structure of the class.
 - "On the Universal Characteristic" (pages 221-229), "On Universal Synthesis and Analysis"
   (pages 229-235), and "Letter to John Fredrick, Duke of Brunswick-Hanover" (pages 259-263) in
 [*Philosophical Papers and Letters*][501] by Leibniz.
+- "Introduction" (pp. xii -- xliv) in the [*Thesaurus of English Words and Phrases Classified and Arranged*][503] (1852), by Peter Mark Roget.
 
 **Explore**: [*An Essay Towards a Real Character, and a Philosophical Language*][502] (London,
   1668) by John Wilkins, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages
@@ -159,6 +160,7 @@ Introductions. Structure of the class.
 
 [502]:https://archive.org/download/AnEssayTowardsARealCharacterAndAPhilosophicalLanguage/An_Essay_Towards_a_Real_Character_and_a.pdf
 [501]: https://courseworks2.columbia.edu/courses/191258/files?preview=19933415
+[503]: https://ia601901.us.archive.org/11/items/in.ernet.dli.2015.6531/2015.6531.Thesaurus-Of-English-Words-And-Phrases_text.pdf
 
 
 ## Part III: Industrial Manufacture
