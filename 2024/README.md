@@ -165,7 +165,7 @@ Introductions. Structure of the class.
 
 ## Part III: Industrial Manufacture
 
-### Week 5
+### Week 6
 
 - Lovelace & Babbage
 - "[Sketch of The Analytical Engine Invented by Charles Babbage By L. F. MENABREA
@@ -174,7 +174,7 @@ October, 1842, No. 82 With notes upon the Memoir by the Translator Ada Augusta, 
 Lovelace][504]." (Must "download" after opening to view content of file)
 
 
-### Week 6
+### Week 7
 
 - "Introduction" in Brewster, William Tenney. [*Specimens of Narration*][502]. H. Holt, 1895.
 - "From the [*Technique of the Drama: An Exposition of Dramatic Composition and Art*][503]
@@ -191,7 +191,7 @@ well to get a sense of what is being suggested.
 
 ## Part IV: Structuralism
 
-### Week 7
+### Week 8
 
 - "Introduction" in Polti, Georges, and Lucille Ray. [*The Thirty-Six Dramatic
   Situations*][601]. Ridgewood, NJ: Editor Company, 1916. **Explore** several of the "situations"
@@ -206,7 +206,7 @@ Press, 1968.
   [603]: https://courseworks2.columbia.edu/files/13329241/download?download_frd=1
   
 
-### Week 8
+### Week 9
 
 - ~"Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
   Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.~
@@ -223,7 +223,7 @@ Springfield, MA: The Home Correspondence School, 1920.~
   [703]: https://courseworks2.columbia.edu/files/13329318/download?download_frd=1
   [705]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-core/content/view/EA1E005FA0BC4522399A4E9DA0304862/S0269889706001074a.pdf/an_example_of_statistical_investigation_of_the_text_eugene_onegin_concerning_the_connection_of_samples_in_chains.pdf
 
-### Week 9
+### Week 10
 
 - "Web-Work Plot Structure" in *The Student Writer* Volume II, Numbers 6&7, June and July 1917.
   (Contained in the first 25 pages of the [linked document][801]).
