@@ -136,13 +136,16 @@ Introductions. Structure of the class.
 
 - "[Love-Kiss XLI][401]" (1671) by Quirinus Kuhlmann.
 - "[On the Combinatorial Art][402]" (1666) by Gottfried Leibniz.
+- "[Ternary Ars][405]" section from the "Ramon Llull" article by Ernesto Priani in the
+  *Stanford Encyclopedia of Philosophy* (Spring 2021 Edition), Edward N. Zalta (ed.)
 
-**Explore**: [*Organum Mathematicum*][404] by Athanasius Kircher, Room Vi, Museo Galileo. Amelia Soth, ["Althanasius Kircher's 'Musical Ark'"][403] JSTOR Daily.
+**Explore**: [*Organum Mathematicum*][404] by Athanasius Kircher, Room Vi, Museo Galileo. Amelia Soth, ["Althanasius Kircher's 'Musical Ark'"][403] JSTOR Daily. 
 
 [401]: https://www.jstor.org/stable/25706521
 [402]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737586
 [403]: https://daily.jstor.org/athanasius-kirchers-musical-ark/
 [404]: https://catalogue.museogalileo.it/object/OrganumMathematicum.html
+[405]: https://plato.stanford.edu/entries/llull/#TernArs
 
 ## Week 5
 
