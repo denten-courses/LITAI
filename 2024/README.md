@@ -156,11 +156,12 @@ Introductions. Structure of the class.
 
 **Explore**: [*An Essay Towards a Real Character, and a Philosophical Language*][502] (London,
   1668) by John Wilkins, with particular attention to the Dedicatory, Part 1 Chapter 1 (pages
-1-5), and Part 4 Chapter 1-2 (pages 385-413). 
+1-5), and Part 4 Chapter 1-2 (pages 385-413). [Full Book][504]
 
 [502]: https://courseworks2.columbia.edu/courses/191258/files?preview=19947278
 [501]: https://courseworks2.columbia.edu/courses/191258/files?preview=19933415
 [503]: https://courseworks2.columbia.edu/courses/191258/files?preview=19947190
+[504]:https://courseworks2.columbia.edu/courses/191258/files?preview=20062125
 
 
 ## Part III: Industrial Manufacture
