@@ -167,7 +167,7 @@ Introductions. Structure of the class.
 
 ### Week 6
 
-- Chapter VII "On the Analytical Engine" and Chapter IX "Of the Mechanical Notation" in the [*Passages from the Life of a Philosopher*] [602] (1864), by Charles Babbage.
+- Chapter VII "On the Analytical Engine" and Chapter IX "Of the Mechanical Notation" in the [*Passages from the Life of a Philosopher*][602] (1864), by Charles Babbage.
 - "[Sketch of The Analytical Engine Invented by Charles Babbage By L. F. MENABREA
   of Turin, Officer of the Military Engineers from the Bibliothèque Universelle de Genève,
 October, 1842, No. 82 With notes upon the Memoir by the Translator Ada Augusta, Countess of
