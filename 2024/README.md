@@ -147,7 +147,7 @@ Introductions. Structure of the class.
 [404]: https://catalogue.museogalileo.it/object/OrganumMathematicum.html
 [405]: https://plato.stanford.edu/entries/llull/#TernArs
 
-## Week 5
+### Week 5
 
 - "On the Universal Characteristic" (pages 221-229), "On Universal Synthesis and Analysis"
   (pages 229-235), and "Letter to John Fredrick, Duke of Brunswick-Hanover" (pages 259-263) in
