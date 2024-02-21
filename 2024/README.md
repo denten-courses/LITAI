@@ -72,7 +72,7 @@ or ask me for help early in the writing process.
 
 Introductions. Structure of the class.
 
-### Week 1: Introduction
+### Week 1: Introduction (Jan 22 and Jan 24)
 
 - Chapter 1: "[Institute for the Study of Machine Literature][103]" from *Author Function* by Dennis Yi Tenen (forthcoming w/ Chicago UP).
 - Plato's [*Phaedrus*][101]
@@ -88,7 +88,7 @@ Introductions. Structure of the class.
 
 ## Part I: Chance & Divination
 
-### Week 2
+### Week 2 (Jan 29 and Jan 31)
 
 - Tedlock, Barbara. “[Divination as a Way of Knowing: Embodiment, Visualisation,
   Narrative, and Interpretation][201].” Folklore 112, no. 2 (January 1, 2001): 189–97.
@@ -114,7 +114,7 @@ Introductions. Structure of the class.
 
 ## Part II: Combinatorial Systems
 
-### Week 3
+### Week 3 (Feb 5 and Feb 7)
 
 - Explore "Ars Brevis" in the *Selected Works of Ramón Llull (1232-1316)*, [pages 569-646][302]
   and in the "Principles of Medicine" [pages 1119-1130 and 1199-1214.][303]
@@ -132,7 +132,7 @@ Introductions. Structure of the class.
   [304]: https://courseworks2.columbia.edu/courses/191258/files?preview=19726912
   [305]: https://courseworks2.columbia.edu/courses/191258/files?preview=19717050
 
-### Week 4
+### Week 4 (Feb 12 and 14)
 
 - "[Love-Kiss XLI][401]" (1671) by Quirinus Kuhlmann.
 - "[On the Combinatorial Art][402]" (1666) by Gottfried Leibniz.
@@ -147,7 +147,7 @@ Introductions. Structure of the class.
 [404]: https://catalogue.museogalileo.it/object/OrganumMathematicum.html
 [405]: https://plato.stanford.edu/entries/llull/#TernArs
 
-### Week 5
+### Week 5 (Feb 19 and 21)
 
 - "On the Universal Characteristic" (pages 221-229), "On Universal Synthesis and Analysis"
   (pages 229-235), and "Letter to John Fredrick, Duke of Brunswick-Hanover" (pages 259-263) in
@@ -166,7 +166,7 @@ Introductions. Structure of the class.
 
 ## Part III: Industrial Manufacture
 
-### Week 6
+### Week 6 (Feb 26 and 28)
 
 - Chapter VII "On the Analytical Engine" (pages 112-141) and Chapter IX "Of the Mechanical Notation" (pages 142-146)in the [*Passages from the Life of a Philosopher*][602] (1864) by Charles Babbage.
 - ["Sketch of The Analytical Engine Invented by Charles Babbage"][601] (1842) by L. F. Menabrea, with notes by the translator Ada Lovelace (pages 666-731) in *Scientific Memoirs, Selected from The Transactions of Foreign Academies of Science and Learned Societies, and from Foreign Journals*, edited by Richard Taylor, vol. III. 
@@ -174,7 +174,7 @@ Introductions. Structure of the class.
 [601]:https://drive.google.com/file/d/1rDhV9gd-7IRUwRZ4W3O2LZi-3p0g8ZhC/view?usp=sharing
 [602]:https://courseworks2.columbia.edu/courses/191258/files?preview=20061450
 
-### Week 7
+### Week 7 (Mar 4 and 6)
 
 - "Introduction" in Brewster, William Tenney. [*Specimens of Narration*][502]. H. Holt, 1895.
 - "From the [*Technique of the Drama: An Exposition of Dramatic Composition and Art*][503]
@@ -189,9 +189,11 @@ well to get a sense of what is being suggested.
   [502]: https://courseworks2.columbia.edu/files/13329010/download?download_frd=1
   [503]: https://courseworks2.columbia.edu/files/13328978/download?download_frd=1
 
+## Spring Break (No Class Mar 11 or 13)
+
 ## Part IV: Structuralism
 
-### Week 8
+### Week 8 (Mar 18 and 20)
 
 - "Introduction" in Polti, Georges, and Lucille Ray. [*The Thirty-Six Dramatic
   Situations*][601]. Ridgewood, NJ: Editor Company, 1916. **Explore** several of the "situations"
@@ -206,7 +208,7 @@ Press, 1968.
   [603]: https://courseworks2.columbia.edu/files/13329241/download?download_frd=1
   
 
-### Week 9
+### Week 9 (Mar 25 and 27)
 
 - ~"Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
   Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.~
@@ -223,7 +225,7 @@ Springfield, MA: The Home Correspondence School, 1920.~
   [703]: https://courseworks2.columbia.edu/files/13329318/download?download_frd=1
   [705]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-core/content/view/EA1E005FA0BC4522399A4E9DA0304862/S0269889706001074a.pdf/an_example_of_statistical_investigation_of_the_text_eugene_onegin_concerning_the_connection_of_samples_in_chains.pdf
 
-### Week 10
+### Week 10 (Apr 1 and 3)
 
 - "Web-Work Plot Structure" in *The Student Writer* Volume II, Numbers 6&7, June and July 1917.
   (Contained in the first 25 pages of the [linked document][801]).
@@ -239,7 +241,7 @@ Cook. **Explore** the rest of the volume.
 [802]: https://courseworks2.columbia.edu/files/13329354/download?download_frd=1
 [803]: https://patents.google.com/patent/US1716069A/en
 
-### Week 10
+### Week 10 (Apr and 10)
 
 - Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
 - Pages 127-150 from [*The Language And Thought Of The Child*][903] (1926) by Jean Piaget.
@@ -258,7 +260,7 @@ Cook. **Explore** the rest of the volume.
 ## Part V: Probabilistic Methods
 
 
-### Week 12
+### Week 12 (Apr 15 and 17)
 
 - ["Computing Machinery and Intelligence"][1001] by Alan Turing in *Mind* Vol. 59, No. 236
   (Oct., 1950): 433-460.
@@ -278,7 +280,7 @@ Cook. **Explore** the rest of the volume.
 [1005]: https://courseworks2.columbia.edu/files/13329459/download?download_frd=1
 [1006]: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 
-### Week 13
+### Week 13 (Apr 22 and 24)
 
 - Weizenbaum, Joseph. [“ELIZA—a Computer Program for the Study of Natural Language Communication
   Between Man and Machine.”][1101] *Communication of the ACM* 9, no. 1 (January 1966): 36–45.
@@ -293,7 +295,7 @@ of Computer Sciences, 1974.
   [1102]: https://courseworks2.columbia.edu/files/13329525/download?download_frd=1
   [1103]: https://courseworks2.columbia.edu/files/13329452/download?download_frd=1
 
-### Week 14
+### Week 14 (Apr 29)
 
 - Selections from Reichardt, Jasia. [*Cybernetic Serendipity: The Computer and the Arts*.][1201]
   London, UK: Studio International, 1970.
@@ -307,8 +309,8 @@ New York, NY: Grand Central Pub, 1984.
 [1202]: https://courseworks2.columbia.edu/files/13329471/download?download_frd=1
 [1203]: https://courseworks2.columbia.edu/files/13329501/download?download_frd=1
 
-### Week 15
-
+### Week 15 (???)
+ 
 - Clark, Peter. [“Story Generation and Aviation Incident Representation.”][1301] ArXiv:1802.04818 [Cs],
   1999.
 - Lakoff, George. [“Structural Complexity in Fairy Tales,”][1302] 1964 1972.  
@@ -319,7 +321,7 @@ New York, NY: Grand Central Pub, 1984.
   [1302]: https://courseworks2.columbia.edu/files/13329476/download?download_frd=1
   [1303]: https://courseworks2.columbia.edu/files/13329392/download?download_frd=1
 
-### Week 16
+### Week 16 (???)
 
 - Robertson, Judy, and Judith Good. [“Story Creation in Virtual Game Worlds.”][1401] *Commun. ACM* 48,
   no. 1 (January 2005): 61–65.
