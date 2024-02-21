@@ -229,21 +229,21 @@ Springfield, MA: The Home Correspondence School, 1920.~
 
 ### Week 10 (Apr 1 and 3)
 
-- "Web-Work Plot Structure" in *The Student Writer* Volume II, Numbers 6&7, June and July 1917.
-  (Contained in the first 25 pages of the [linked document][801]).
-- Pages 1-17 in [*Plotto: The Master Book of All Plots*][802] (1928) by William Wallace
-Cook. **Explore** the rest of the volume.
-- Markov, A. A. “[An Example of Statistical Investigation of the Text Eugene Onegin Concerning
+~- "Web-Work Plot Structure" in *The Student Writer* Volume II, Numbers 6&7, June and July 1917.
+  (Contained in the first 25 pages of the [linked document][801]).~
+~- Pages 1-17 in [*Plotto: The Master Book of All Plots*][802] (1928) by William Wallace
+Cook. **Explore** the rest of the volume.~
+~- Markov, A. A. “[An Example of Statistical Investigation of the Text Eugene Onegin Concerning
   the Connection of Samples in Chains][705].” Science in Context 19, no. 4 (December 2006
-[1914]): 591–600.
-- **Explore**: Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
-  issued June 4, 1929.
+[1914]): 591–600.~
+~- **Explore**: Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
+  issued June 4, 1929.~
 
 [801]: https://courseworks2.columbia.edu/files/13329320/download?download_frd=1
 [802]: https://courseworks2.columbia.edu/files/13329354/download?download_frd=1
 [803]: https://patents.google.com/patent/US1716069A/en
 
-### Week 10 (Apr and 10)
+### Week 11 (Apr and 10)
 
 - Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
 - Pages 127-150 from [*The Language And Thought Of The Child*][903] (1926) by Jean Piaget.
@@ -322,17 +322,3 @@ New York, NY: Grand Central Pub, 1984.
   [1301]: https://courseworks2.columbia.edu/files/13329473/download?download_frd=1
   [1302]: https://courseworks2.columbia.edu/files/13329476/download?download_frd=1
   [1303]: https://courseworks2.columbia.edu/files/13329392/download?download_frd=1
-
-### Week 16 (???)
-
-- Robertson, Judy, and Judith Good. [“Story Creation in Virtual Game Worlds.”][1401] *Commun. ACM* 48,
-  no. 1 (January 2005): 61–65.
-- Lee, Jieh-Sheng, and Jieh Hsiang. [“Patent Claim Generation by Fine-Tuning OpenAI GPT-2.”][1402]
-  ArXiv:1907.02052 [Cs, Stat], June 30, 2019.
-- Adelani, David Ifeoluwa, Haotian Mai, Fuming Fang, Huy H. Nguyen, Junichi Yamagishi, and Isao
-  Echizen. [“Generating Sentiment-Preserving Fake Online Reviews Using Neural Language Models
-and Their Human- and Machine-Based Detection.”][1403] ArXiv:1907.09177 [Cs], July 22, 2019.
-
-[1401]: https://courseworks2.columbia.edu/files/13329475/download?download_frd=1
-[1402]: https://courseworks2.columbia.edu/files/13329462/download?download_frd=1
-[1403]: https://courseworks2.columbia.edu/files/13329393/download?download_frd=1
