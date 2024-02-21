@@ -248,11 +248,13 @@ Cook. **Explore** the rest of the volume.~
 - Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
 - Pages 127-150 from [*The Language And Thought Of The Child*][903] (1926) by Jean Piaget.
 - Pages 11-25 from [*Syntactic Structure*][901] (1957) by Noam Chomsky.
+- ["Random Generation of English Sentences"][904] (1961) by Victor H. Yngve
 - ~**Explore**: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.~
 
 [901]: https://courseworks2.columbia.edu/files/13329286/download?download_frd=1
 [902]: https://courseworks2.columbia.edu/files/13329284/download?download_frd=1
 [903]: https://courseworks2.columbia.edu/files/13329336/download?download_frd=1
+[904]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737727
 
 
 
