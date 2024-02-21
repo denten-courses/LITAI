@@ -169,10 +169,12 @@ Introductions. Structure of the class.
 ### Week 6 (Feb 26 and 28)
 
 - Chapter VII "On the Analytical Engine" (pages 112-141) and Chapter IX "Of the Mechanical Notation" (pages 142-146)in the [*Passages from the Life of a Philosopher*][602] (1864) by Charles Babbage.
-- ["Sketch of The Analytical Engine Invented by Charles Babbage"][601] (1842) by L. F. Menabrea, with notes by the translator Ada Lovelace (pages 666-731) in *Scientific Memoirs, Selected from The Transactions of Foreign Academies of Science and Learned Societies, and from Foreign Journals*, edited by Richard Taylor, vol. III. 
+- ["Sketch of The Analytical Engine Invented by Charles Babbage"][601] (1842) by L. F. Menabrea, with notes by the translator Ada Lovelace (pages 666-731) in *Scientific Memoirs, Selected from The Transactions of Foreign Academies of Science and Learned Societies, and from Foreign Journals*, edited by Richard Taylor, vol. III.
+- Ada, the enchantress of numbers: prophet of the computer age, a pathway to the 21st century (1998), edited by Betty Alexandra Toole
 
 [601]:https://drive.google.com/file/d/1rDhV9gd-7IRUwRZ4W3O2LZi-3p0g8ZhC/view?usp=sharing
 [602]:https://courseworks2.columbia.edu/courses/191258/files?preview=20061450
+[603]:https://archive.org/details/adaenchantressof00tool
 
 ### Week 7 (Mar 4 and 6)
 
