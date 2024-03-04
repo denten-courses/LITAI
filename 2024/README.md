@@ -196,7 +196,7 @@ well to get a sense of what is being suggested.
 
 ## Part IV: Structuralism
 
-### Week 8 (Mar 18 and 20)
+### Week 8: Structure (Mar 18 and 20)
 
 - "Introduction" in Polti, Georges, and Lucille Ray. [*The Thirty-Six Dramatic
   Situations*][601]. Ridgewood, NJ: Editor Company, 1916. **Explore** several of the "situations"
@@ -224,11 +224,9 @@ Springfield, MA: The Home Correspondence School, 1920.
   [703]: https://courseworks2.columbia.edu/files/13329318/download?download_frd=1
   [705]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-
   
-
-### Week 9 (Apr and 10)
+### Week 9: Grammar (Apr and 10)
 
 - Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
-- Pages 127-150 from [*The Language And Thought Of The Child*][903] (1926) by Jean Piaget.
 - Pages 11-25 from [*Syntactic Structure*][901] (1957) by Noam Chomsky.
 - ["Random Generation of English Sentences"][904] (1961) by Victor H. Yngve
 - ~**Explore**: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.~
@@ -238,9 +236,9 @@ Springfield, MA: The Home Correspondence School, 1920.
 [903]: https://courseworks2.columbia.edu/files/13329336/download?download_frd=1
 [904]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737727
 
-### Week 10
+### Week 10: Schema
 
-- Piaget
+- Pages 127-150 from [*The Language And Thought Of The Child*][903] (1926) by Jean Piaget.
 - Weizenbaum, Joseph. [“ELIZA—a Computer Program for the Study of Natural Language Communication
   Between Man and Machine.”][1101] *Communication of the ACM* 9, no. 1 (January 1966): 36–45.
 - Klein, Sheldon, John F. Aeschlimann, Matthew A. Appelbaum, David F. Balsiger, Elizabeth J.
