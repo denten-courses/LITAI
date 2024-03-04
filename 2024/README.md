@@ -207,7 +207,7 @@ Press, 1968.
 - **Explore**: [*The Art of Inventing Characters*][602] (1922) by Polti. 
   
   [601]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737610
-  [602]: https://courseworks2.columbia.edu/files/13329212/download?download_frd=1
+  [602]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737622
   [603]: https://courseworks2.columbia.edu/files/13329241/download?download_frd=1
   
 
