@@ -204,47 +204,28 @@ throughout the book.
 - "Introduction" and Chapter One in Propp, Vladimir. [*Morphology of the Folktale*][603].
   Translated by Laurence Scott. Austin, TX: American Folklore Society, University of Texas
 Press, 1968.
-- **Explore**: [*The Art of Inventing Characters*][602] (1922) by Polti. 
+- Pages 1-17 in [*Plotto: The Master Book of All Plots*][802] (1928) by William Wallace
+Cook.
+
+- **Explore**: [*The Art of Inventing Characters*][602] (1922) by Polti.
+- Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
+  Angeles, CA: The Feature Photodrama Company, 1919.
+- Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
+  Material and Construction, Combined with a Complete Index and a Progressive Category in Which
+the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][703].
+Springfield, MA: The Home Correspondence School, 1920.
+- Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
+  issued June 4, 1929.~
   
   [601]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737610
   [602]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737622
   [603]: https://courseworks2.columbia.edu/files/13329241/download?download_frd=1
-  
-
-### Week 9 (Mar 25 and 27)
-
-- ~"Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
-  Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.~
-- ~**Explore**: Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
-  Material and Construction, Combined with a Complete Index and a Progressive Category in Which
-the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][703].
-Springfield, MA: The Home Correspondence School, 1920.~
-- ~**Explore**: Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
-  Angeles, CA: The Feature Photodrama Company, 1919.~
-- ~Wharton, Edith. “The Writing of Fiction: Telling a Short Story.” Scribners, April 1925,
-  344–49.~
-
   [701]: https://courseworks2.columbia.edu/files/13329309/download?download_frd=1
   [703]: https://courseworks2.columbia.edu/files/13329318/download?download_frd=1
-  [705]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-core/content/view/EA1E005FA0BC4522399A4E9DA0304862/S0269889706001074a.pdf/an_example_of_statistical_investigation_of_the_text_eugene_onegin_concerning_the_connection_of_samples_in_chains.pdf
+  [705]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-
+  
 
-### Week 10 (Apr 1 and 3)
-
-~- "Web-Work Plot Structure" in *The Student Writer* Volume II, Numbers 6&7, June and July 1917.
-  (Contained in the first 25 pages of the [linked document][801]).~
-~- Pages 1-17 in [*Plotto: The Master Book of All Plots*][802] (1928) by William Wallace
-Cook. **Explore** the rest of the volume.~
-~- Markov, A. A. “[An Example of Statistical Investigation of the Text Eugene Onegin Concerning
-  the Connection of Samples in Chains][705].” Science in Context 19, no. 4 (December 2006
-[1914]): 591–600.~
-~- **Explore**: Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
-  issued June 4, 1929.~
-
-[801]: https://courseworks2.columbia.edu/files/13329320/download?download_frd=1
-[802]: https://courseworks2.columbia.edu/files/13329354/download?download_frd=1
-[803]: https://patents.google.com/patent/US1716069A/en
-
-### Week 11 (Apr and 10)
+### Week 9 (Apr and 10)
 
 - Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
 - Pages 127-150 from [*The Language And Thought Of The Child*][903] (1926) by Jean Piaget.
@@ -257,36 +238,9 @@ Cook. **Explore** the rest of the volume.~
 [903]: https://courseworks2.columbia.edu/files/13329336/download?download_frd=1
 [904]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737727
 
+### Week 10
 
-
-
-
-
-## Part V: Probabilistic Methods
-
-
-### Week 12 (Apr 15 and 17)
-
-- ["Computing Machinery and Intelligence"][1001] by Alan Turing in *Mind* Vol. 59, No. 236
-  (Oct., 1950): 433-460.
-- ["On Computable Numbers"][1006] by Alan Turing in *Mind* Vol. 59, No. 236
-  (Oct., 1950): 433-460.
-- Masterman, Margaret. [“Semantic Algorithms”][1002] (1965), in *Language, Cohesion, and Form*,
-  ed. Yorick Wilks, Cambridge: Cambridge University Press, 2005.
-- Yngve, Victor H. [“Random Generation of English Sentences,”][1003] 66–80. Teddington, UK, 1961.
-- **Explore**: [A Hundred Thousand Billion Poems][1004] (1961) by Raymond Queneau.
-- **Explore**: [*An Introduction to COMIT Programming*][1005] (MIT Press, 1962).
-
-
-[1001]: https://courseworks2.columbia.edu/files/13329507/download?download_frd=1
-[1002]: https://courseworks2.columbia.edu/files/13329394/download?download_frd=1
-[1003]: https://courseworks2.columbia.edu/files/13329510/download?download_frd=1
-[1004]: http://www.bevrowe.info/Trial/Queneau/Queneau.html
-[1005]: https://courseworks2.columbia.edu/files/13329459/download?download_frd=1
-[1006]: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-
-### Week 13 (Apr 22 and 24)
-
+- Piaget
 - Weizenbaum, Joseph. [“ELIZA—a Computer Program for the Study of Natural Language Communication
   Between Man and Machine.”][1101] *Communication of the ACM* 9, no. 1 (January 1966): 36–45.
 - Klein, Sheldon, John F. Aeschlimann, Matthew A. Appelbaum, David F. Balsiger, Elizabeth J.
@@ -300,21 +254,28 @@ of Computer Sciences, 1974.
   [1102]: https://courseworks2.columbia.edu/files/13329525/download?download_frd=1
   [1103]: https://courseworks2.columbia.edu/files/13329452/download?download_frd=1
 
-### Week 14 (Apr 29)
+## Part V: Probabilistic Methods
 
-- Selections from Reichardt, Jasia. [*Cybernetic Serendipity: The Computer and the Arts*.][1201]
-  London, UK: Studio International, 1970.
-- Van Dijk, Teun A. [“Some Problems of Generative Poetics.”][1202] *Poetics* 1, no. 2 (January 1,
-  1971): 5–35.
-- Selections from Racter, and William Chamberlain. [*The Policeman’s Beard Is Half Constructed:
-  Computer Prose and Poetry by Racter---The First Book Ever Written by a Computer.][1203] 1st edition.
-New York, NY: Grand Central Pub, 1984.
+### Week 12 (Apr 15 and 17)
 
-[1201]: https://courseworks2.columbia.edu/files/13329467/download?download_frd=1
-[1202]: https://courseworks2.columbia.edu/files/13329471/download?download_frd=1
-[1203]: https://courseworks2.columbia.edu/files/13329501/download?download_frd=1
+- Markov
+- Firth
+- Topic modeling
 
-### Week 15 (???)
+[1001]: https://courseworks2.columbia.edu/files/13329507/download?download_frd=1
+[1002]: https://courseworks2.columbia.edu/files/13329394/download?download_frd=1
+[1003]: https://courseworks2.columbia.edu/files/13329510/download?download_frd=1
+[1004]: http://www.bevrowe.info/Trial/Queneau/Queneau.html
+[1005]: https://courseworks2.columbia.edu/files/13329459/download?download_frd=1
+[1006]: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+
+### Week 13 (Apr 15 and 17)
+
+Lab.
+
+  ### Cuts
+
+  ### Week 13 (???)
  
 - Clark, Peter. [“Story Generation and Aviation Incident Representation.”][1301] ArXiv:1802.04818 [Cs],
   1999.
@@ -325,3 +286,6 @@ New York, NY: Grand Central Pub, 1984.
   [1301]: https://courseworks2.columbia.edu/files/13329473/download?download_frd=1
   [1302]: https://courseworks2.columbia.edu/files/13329476/download?download_frd=1
   [1303]: https://courseworks2.columbia.edu/files/13329392/download?download_frd=1
+
+  - ~"Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
+  Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.~
