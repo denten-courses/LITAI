@@ -178,18 +178,18 @@ Introductions. Structure of the class.
 
 ### Week 7 (Mar 4 and 6)
 
-- "Introduction" in Brewster, William Tenney. [*Specimens of Narration*][502]. H. Holt, 1895.
-- "From the [*Technique of the Drama: An Exposition of Dramatic Composition and Art*][503]
+- "Introduction" in Brewster, William Tenney. [*Specimens of Narration*][701]. H. Holt, 1895.
+- "From the [*Technique of the Drama: An Exposition of Dramatic Composition and Art*][702]
   (1900) by Gustav Freytag read the Introduction (pages 1-8), Chapter II Parts 1&2 (pages
 104-140), and Chapter III Part 1 (pages 210-216).
 - Introduction (pages 7-9) in [*Skeleton Essays, Or Authorship in Outline: Consisting of
   Condensed Treatises on Popular Subjects and Directions How to Enlarge Them Into Essays, Or
-Expand Them Into Lectures*][501](1890) by Thomas Dunn English. Browse through the essays as
+Expand Them Into Lectures*][703](1890) by Thomas Dunn English. Browse through the essays as
 well to get a sense of what is being suggested.
 
-  [501]: https://courseworks2.columbia.edu/files/13328991/download?download_frd=1
-  [502]: https://courseworks2.columbia.edu/files/13329010/download?download_frd=1
-  [503]: https://courseworks2.columbia.edu/files/13328978/download?download_frd=1
+  [701]: https://courseworks2.columbia.edu/files/13328991/download?download_frd=1
+  [702]: https://courseworks2.columbia.edu/files/13329010/download?download_frd=1
+  [703]: https://courseworks2.columbia.edu/files/13328978/download?download_frd=1
 
 ## Spring Break (No Class Mar 11 or 13)
 
