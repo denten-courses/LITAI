@@ -206,15 +206,15 @@ throughout the book.
 Press, 1968.
 - Pages 1-17 in [*Plotto: The Master Book of All Plots*][802] (1928) by William Wallace
 Cook.
-
-- **Explore**: [*The Art of Inventing Characters*][602] (1922) by Polti.
-- Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
+- [*The Art of Inventing Characters*][602] (1922) by Polti.
+  
+- **Explore**: Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
   Angeles, CA: The Feature Photodrama Company, 1919.
-- Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
+- **Explore**: Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
   Material and Construction, Combined with a Complete Index and a Progressive Category in Which
 the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][703].
 Springfield, MA: The Home Correspondence School, 1920.
-- Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
+- **Explore**: Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
   issued June 4, 1929.~
   
   [601]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737610
