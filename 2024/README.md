@@ -187,8 +187,8 @@ Introductions. Structure of the class.
 Expand Them Into Lectures*][703](1890) by Thomas Dunn English. Browse through the essays as
 well to get a sense of what is being suggested.
 
-  [701]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737869
-  [702]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737856
+  [701]: https://courseworks2.columbia.edu/courses/191258/files?preview=20218985
+  [702]: https://courseworks2.columbia.edu/courses/191258/files?preview=20219143
   [703]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737867
 
 
