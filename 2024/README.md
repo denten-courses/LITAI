@@ -187,9 +187,9 @@ Introductions. Structure of the class.
 Expand Them Into Lectures*][703](1890) by Thomas Dunn English. Browse through the essays as
 well to get a sense of what is being suggested.
 
-  [701]: https://courseworks2.columbia.edu/files/13329010/download?download_frd=1
-  [702]: https://courseworks2.columbia.edu/files/13328978/download?download_frd=1
-  [703]: https://courseworks2.columbia.edu/files/13328991/download?download_frd=1
+  [701]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737869
+  [702]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737856
+  [703]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737867
 
 
 ## Spring Break (No Class Mar 11 or 13)
