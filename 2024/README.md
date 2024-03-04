@@ -271,9 +271,9 @@ of Computer Sciences, 1974.
 
 Lab.
 
-  ### Cuts
+### Cuts
 
-  ### Week 13 (???)
+### Week 13 (???)
  
 - Clark, Peter. [“Story Generation and Aviation Incident Representation.”][1301] ArXiv:1802.04818 [Cs],
   1999.
