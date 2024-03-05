@@ -198,10 +198,10 @@ well to get a sense of what is being suggested.
 
 ### Week 8: Structure (Mar 18 and 20)
 
-- "Introduction" in Polti, Georges, and Lucille Ray. [*The Thirty-Six Dramatic
+- "Introduction" in Polti, Georges, and Lucille Ray, [*The Thirty-Six Dramatic
   Situations*][801]. Ridgewood, NJ: Editor Company, 1916. **Explore** several of the "situations"
 throughout the book.
-- "Introduction" and Chapter One in Propp, Vladimir. [*Morphology of the Folktale*][803].
+- "Introduction" and Chapter One in Propp, Vladimir, [*Morphology of the Folktale*][803].
   Translated by Laurence Scott. Austin, TX: American Folklore Society, University of Texas
 Press, 1968.
 - Pages 1-17 in Cook, William Wallace, [*Plotto: The Master Book of All Plots*][802] (1928)
