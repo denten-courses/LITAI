@@ -199,30 +199,27 @@ well to get a sense of what is being suggested.
 ### Week 8: Structure (Mar 18 and 20)
 
 - "Introduction" in Polti, Georges, and Lucille Ray. [*The Thirty-Six Dramatic
-  Situations*][601]. Ridgewood, NJ: Editor Company, 1916. **Explore** several of the "situations"
+  Situations*][801]. Ridgewood, NJ: Editor Company, 1916. **Explore** several of the "situations"
 throughout the book.
-- "Introduction" and Chapter One in Propp, Vladimir. [*Morphology of the Folktale*][603].
+- "Introduction" and Chapter One in Propp, Vladimir. [*Morphology of the Folktale*][803].
   Translated by Laurence Scott. Austin, TX: American Folklore Society, University of Texas
 Press, 1968.
 - Pages 1-17 in [*Plotto: The Master Book of All Plots*][802] (1928) by William Wallace
 Cook.
-- [*The Art of Inventing Characters*][602] (1922) by Polti.
-  
-- **Explore**: Hill, Wycliffe Aber. *Ten Million Photoplay Plots, Master Key to All Dramatic Plots*. Los
-  Angeles, CA: The Feature Photodrama Company, 1919.
+- **Explore**: Polti,[*The Art of Inventing Characters*][805] (1922).
 - **Explore**: Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
   Material and Construction, Combined with a Complete Index and a Progressive Category in Which
-the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][703].
+the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][804].
 Springfield, MA: The Home Correspondence School, 1920.
-- **Explore**: Loayza, Thomas A. [*Story Game*][803]. United States US1716069A, filed January 12, 1927, and
+- **Explore**: Loayza, Thomas A. [*Story Game*][806]. United States US1716069A, filed January 12, 1927, and
   issued June 4, 1929.~
   
-  [601]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737610
-  [602]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737622
-  [603]: https://courseworks2.columbia.edu/files/13329241/download?download_frd=1
-  [701]: https://courseworks2.columbia.edu/files/13329309/download?download_frd=1
-  [703]: https://courseworks2.columbia.edu/files/13329318/download?download_frd=1
-  [705]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-
+  [801]: https://courseworks2.columbia.edu/courses/191258/files?preview=20230800
+  [805]: https://courseworks2.columbia.edu/courses/191258/files?preview=20230542
+  [803]: https://courseworks2.columbia.edu/courses/191258/files?preview=20230758
+  [804]: https://courseworks2.columbia.edu/courses/191258/files?preview=20230835
+  [802]: https://courseworks2.columbia.edu/courses/191258/files?preview=20230648
+  [806]: https://courseworks2.columbia.edu/courses/191258/files?preview=20230942
   
 ### Week 9: Grammar (Apr and 10)
 
