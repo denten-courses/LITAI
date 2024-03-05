@@ -204,14 +204,13 @@ throughout the book.
 - "Introduction" and Chapter One in Propp, Vladimir. [*Morphology of the Folktale*][803].
   Translated by Laurence Scott. Austin, TX: American Folklore Society, University of Texas
 Press, 1968.
-- Pages 1-17 in [*Plotto: The Master Book of All Plots*][802] (1928) by William Wallace
-Cook.
-- **Explore**: Polti,[*The Art of Inventing Characters*][805] (1922).
-- **Explore**: Phillips, Henry Albert. [*The Universal Plot Catalog: An Examination of the Elements of Plot
+- Pages 1-17 in Cook, William Wallace, [*Plotto: The Master Book of All Plots*][802] (1928)
+- **Explore**: Polti, [*The Art of Inventing Characters*][805] (1922).
+- **Explore**: Phillips, Henry Albert, [*The Universal Plot Catalog: An Examination of the Elements of Plot
   Material and Construction, Combined with a Complete Index and a Progressive Category in Which
-the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][804].
+the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classified*][804],
 Springfield, MA: The Home Correspondence School, 1920.
-- **Explore**: Loayza, Thomas A. [*Story Game*][806]. United States US1716069A, filed January 12, 1927, and
+- **Explore**: Loayza, Thomas A., [*Story Game*][806], United States US1716069A, filed January 12, 1927, and
   issued June 4, 1929.~
   
   [801]: https://courseworks2.columbia.edu/courses/191258/files?preview=20230800
