@@ -227,9 +227,8 @@ Springfield, MA: The Home Correspondence School, 1920.
 - Pages 11-25 from [*Syntactic Structure*][901] (1957) by Noam Chomsky.
 - ["Random Generation of English Sentences"][904] (1961) by Victor H. Yngve
 
-
-[901]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737788
-[902]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737785
+[901]: https://courseworks2.columbia.edu/courses/191258/files?preview=20306047
+[902]: https://courseworks2.columbia.edu/courses/191258/files?preview=20306046
 [904]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737727
 
 ### Week 10: Schema
