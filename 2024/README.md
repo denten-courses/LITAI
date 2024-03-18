@@ -212,6 +212,7 @@ the Source, Life, and End of All Dramatic Conflict and Plot Master Are Classifie
 Springfield, MA: The Home Correspondence School, 1920.
 - **Explore**: Loayza, Thomas A., [*Story Game*][806], United States US1716069A, filed January 12, 1927, and
   issued June 4, 1929.~
+- **Explore**: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.
   
   [801]: https://courseworks2.columbia.edu/courses/191258/files?preview=20230800
   [805]: https://courseworks2.columbia.edu/courses/191258/files?preview=20230542
@@ -225,11 +226,10 @@ Springfield, MA: The Home Correspondence School, 1920.
 - Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
 - Pages 11-25 from [*Syntactic Structure*][901] (1957) by Noam Chomsky.
 - ["Random Generation of English Sentences"][904] (1961) by Victor H. Yngve
-- ~**Explore**: Hill, Wycliffe. *The Plot Genie Index*. Hollywood, CA: E. E. Gagnon, 1935.~
 
-[901]: https://courseworks2.columbia.edu/files/13329286/download?download_frd=1
-[902]: https://courseworks2.columbia.edu/files/13329284/download?download_frd=1
-[903]: https://courseworks2.columbia.edu/files/13329336/download?download_frd=1
+
+[901]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737788
+[902]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737785
 [904]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737727
 
 ### Week 10: Schema
@@ -243,7 +243,8 @@ Meta-Symbolic Simulation System.”][1102] Technical Report. University of Wisco
 of Computer Sciences, 1974.
 - Meehan, James Richard. [“The Metanovel: Writing Stories by Computer.”][1103] New Haven, CT: Yale
   University, Department of Computer Science, September 1976.
-  
+
+  [903]: https://courseworks2.columbia.edu/files/13329336/download?download_frd=1
   [1101]: https://courseworks2.columbia.edu/files/13329509/download?download_frd=1
   [1102]: https://courseworks2.columbia.edu/files/13329525/download?download_frd=1
   [1103]: https://courseworks2.columbia.edu/files/13329452/download?download_frd=1
