@@ -221,7 +221,7 @@ Springfield, MA: The Home Correspondence School, 1920.
   [802]: https://courseworks2.columbia.edu/courses/191258/files?preview=20230648
   [806]: https://courseworks2.columbia.edu/courses/191258/files?preview=20230942
   
-### Week 9: Grammar (Apr and 10)
+### Week 9: Grammar (Mar 25 and 27)
 
 - Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
 - Pages 11-25 from [*Syntactic Structure*][901] (1957) by Noam Chomsky.
@@ -231,8 +231,9 @@ Springfield, MA: The Home Correspondence School, 1920.
 [902]: https://courseworks2.columbia.edu/courses/191258/files?preview=20306046
 [904]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737727
 
-### Week 10: Schema
+### Week 10: Schema (Apr 1 and 3)
 
+- Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
 - Pages 127-150 from [*The Language And Thought Of The Child*][1001] (1926) by Jean Piaget.
 - Weizenbaum, Joseph. [“ELIZA—a Computer Program for the Study of Natural Language Communication
   Between Man and Machine.”][1002] *Communication of the ACM* 9, no. 1 (January 1966): 36–45.
@@ -255,7 +256,7 @@ of Computer Sciences, 1974.
 
 ## Part V: Probabilistic Methods
 
-### Week 12 (Apr 15 and 17)
+### Week 12 (Apr 8 and 10)
 
 - Markov
 - Firth
