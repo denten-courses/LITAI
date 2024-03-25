@@ -233,20 +233,25 @@ Springfield, MA: The Home Correspondence School, 1920.
 
 ### Week 10: Schema
 
-- Pages 127-150 from [*The Language And Thought Of The Child*][903] (1926) by Jean Piaget.
+- Pages 127-150 from [*The Language And Thought Of The Child*][1001] (1926) by Jean Piaget.
 - Weizenbaum, Joseph. [“ELIZA—a Computer Program for the Study of Natural Language Communication
-  Between Man and Machine.”][1101] *Communication of the ACM* 9, no. 1 (January 1966): 36–45.
+  Between Man and Machine.”][1002] *Communication of the ACM* 9, no. 1 (January 1966): 36–45.
 - Klein, Sheldon, John F. Aeschlimann, Matthew A. Appelbaum, David F. Balsiger, Elizabeth J.
   Curtis, Mark Foster, S. David Kalish, et al. [“Modeling Propp and Levi-Strauss in a
-Meta-Symbolic Simulation System.”][1102] Technical Report. University of Wisconsin-Madison Department
+Meta-Symbolic Simulation System.”][1003] Technical Report. University of Wisconsin-Madison Department
 of Computer Sciences, 1974.
-- Meehan, James Richard. [“The Metanovel: Writing Stories by Computer.”][1103] New Haven, CT: Yale
+- Meehan, James Richard. [“The Metanovel: Writing Stories by Computer.”][1004] New Haven, CT: Yale
   University, Department of Computer Science, September 1976.
+- Turing, A. M. ["On Computable Numbers, with an Application to the Entscheindungs Problem"][1005] November, 1936.
+- Turing, A. M. ["Computing Machinery and Intelligence"][1006] Mind, Vol. 59, No. 236 (Oct., 1950).
 
-  [903]: https://courseworks2.columbia.edu/files/13329336/download?download_frd=1
-  [1101]: https://courseworks2.columbia.edu/files/13329509/download?download_frd=1
-  [1102]: https://courseworks2.columbia.edu/files/13329525/download?download_frd=1
-  [1103]: https://courseworks2.columbia.edu/files/13329452/download?download_frd=1
+  [1001]: https://courseworks2.columbia.edu/courses/191258/files?preview=20375383
+  [1002]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737742
+  [1003]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737763
+  [1004]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737760
+  [1005]: https://courseworks2.columbia.edu/courses/191258/files?preview=20375514
+  [1006]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737715
+
 
 ## Part V: Probabilistic Methods
 
@@ -255,13 +260,6 @@ of Computer Sciences, 1974.
 - Markov
 - Firth
 - Topic modeling
-
-[1001]: https://courseworks2.columbia.edu/files/13329507/download?download_frd=1
-[1002]: https://courseworks2.columbia.edu/files/13329394/download?download_frd=1
-[1003]: https://courseworks2.columbia.edu/files/13329510/download?download_frd=1
-[1004]: http://www.bevrowe.info/Trial/Queneau/Queneau.html
-[1005]: https://courseworks2.columbia.edu/files/13329459/download?download_frd=1
-[1006]: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 
 ### Week 13 (Apr 15 and 17)
 
