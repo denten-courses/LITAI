@@ -244,6 +244,7 @@ of Computer Sciences, 1974.
   University, Department of Computer Science, September 1976.
 - Turing, A. M. ["On Computable Numbers, with an Application to the Entscheindungs Problem"][1005] November, 1936.
 - Turing, A. M. ["Computing Machinery and Intelligence"][1006] Mind, Vol. 59, No. 236 (Oct., 1950).
+- Masterman, Margaret. ["Semantic Algorithms"][1007]
 
   [1001]: https://courseworks2.columbia.edu/courses/191258/files?preview=20375383
   [1002]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737742
@@ -251,6 +252,7 @@ of Computer Sciences, 1974.
   [1004]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737760
   [1005]: https://courseworks2.columbia.edu/courses/191258/files?preview=20375514
   [1006]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737715
+  [1007]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737719
 
 
 ## Part V: Probabilistic Methods
