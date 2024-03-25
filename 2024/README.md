@@ -243,7 +243,6 @@ of Computer Sciences, 1974.
 - Meehan, James Richard. [“The Metanovel: Writing Stories by Computer.”][1004] New Haven, CT: Yale
   University, Department of Computer Science, September 1976.
 - Turing, A. M. ["On Computable Numbers, with an Application to the Entscheindungs Problem"][1005] November, 1936.
-- Turing, A. M. ["Computing Machinery and Intelligence"][1006] Mind, Vol. 59, No. 236 (Oct., 1950).
 - Masterman, Margaret. ["Semantic Algorithms"][1007]
 
   [1001]: https://courseworks2.columbia.edu/courses/191258/files?preview=20375383
@@ -251,7 +250,6 @@ of Computer Sciences, 1974.
   [1003]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737763
   [1004]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737760
   [1005]: https://courseworks2.columbia.edu/courses/191258/files?preview=20375514
-  [1006]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737715
   [1007]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737719
 
 
