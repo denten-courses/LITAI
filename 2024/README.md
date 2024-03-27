@@ -223,17 +223,24 @@ Springfield, MA: The Home Correspondence School, 1920.
   
 ### Week 9: Grammar (Mar 25 and 27)
 
-- Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
 - Pages 11-25 from [*Syntactic Structure*][901] (1957) by Noam Chomsky.
 - ["Random Generation of English Sentences"][904] (1961) by Victor H. Yngve
 
 [901]: https://courseworks2.columbia.edu/courses/191258/files?preview=20306047
-[902]: https://courseworks2.columbia.edu/courses/191258/files?preview=20306046
 [904]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737727
 
-### Week 10: Schema (Apr 1 and 3)
+### Week 10: ??? (Apr 1 and 3)
 
-- Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][902] (1933-35).
+- Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][1001] (1933-35).
+- Turing, A. M. ["On Computable Numbers, with an Application to the Entscheindungs Problem"][1002] November, 1936.
+- Masterman, Margaret. ["Semantic Algorithms"][1003]
+  
+[1001]: https://courseworks2.columbia.edu/courses/191258/files?preview=20306046
+[1002]: https://courseworks2.columbia.edu/courses/191258/files?preview=20375514
+[1003]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737719
+
+### Week 11: Schema (Apr 8 and 10)
+
 - Pages 127-150 from [*The Language And Thought Of The Child*][1001] (1926) by Jean Piaget.
 - Weizenbaum, Joseph. [“ELIZA—a Computer Program for the Study of Natural Language Communication
   Between Man and Machine.”][1002] *Communication of the ACM* 9, no. 1 (January 1966): 36–45.
@@ -243,32 +250,25 @@ Meta-Symbolic Simulation System.”][1003] Technical Report. University of Wisco
 of Computer Sciences, 1974.
 - Meehan, James Richard. [“The Metanovel: Writing Stories by Computer.”][1004] New Haven, CT: Yale
   University, Department of Computer Science, September 1976.
-- Turing, A. M. ["On Computable Numbers, with an Application to the Entscheindungs Problem"][1005] November, 1936.
-- Masterman, Margaret. ["Semantic Algorithms"][1007]
 
   [1001]: https://courseworks2.columbia.edu/courses/191258/files?preview=20375383
   [1002]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737742
   [1003]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737763
   [1004]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737760
-  [1005]: https://courseworks2.columbia.edu/courses/191258/files?preview=20375514
-  [1007]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737719
-
 
 ## Part V: Probabilistic Methods
 
-### Week 12 (Apr 8 and 10)
+### Week 12: Topic Modeling (Apr 15 and 17)
 
 - Markov
 - Firth
-- Topic modeling
+- Spark Jones
 
-### Week 13 (Apr 15 and 17)
+### Week 13 (Apr 22 and 24)
 
 Lab.
 
-### Cuts
-
-### Week 13 (???)
+### Week 14 (Apr 39)
  
 - Clark, Peter. [“Story Generation and Aviation Incident Representation.”][1301] ArXiv:1802.04818 [Cs],
   1999.
