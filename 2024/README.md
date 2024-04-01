@@ -229,7 +229,7 @@ Springfield, MA: The Home Correspondence School, 1920.
 [901]: https://courseworks2.columbia.edu/courses/191258/files?preview=20306047
 [904]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737727
 
-### Week 10: ??? (Apr 1 and 3)
+### Week 10: Universal Machines (Apr 1 and 3)
 
 - Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][1001] (1933-35).
 - Turing, A. M. ["On Computable Numbers, with an Application to the Entscheindungs Problem"][1002] November, 1936.
