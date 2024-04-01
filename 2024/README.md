@@ -233,11 +233,13 @@ Springfield, MA: The Home Correspondence School, 1920.
 
 - Pages 45-50 and 118-125 in Ludwig Wittgenstein's [*Blue and Brown Notebooks*][1001] (1933-35).
 - Turing, A. M. ["On Computable Numbers, with an Application to the Entscheindungs Problem"][1002] November, 1936.
-- Masterman, Margaret. ["Semantic Algorithms"][1003]
+- Masterman, Margaret. ["Computerized Haiku"][1004]
+- ~Masterman, Margaret. ["Semantic Algorithms"][1003]~
   
 [1001]: https://courseworks2.columbia.edu/courses/191258/files?preview=20306046
 [1002]: https://courseworks2.columbia.edu/courses/191258/files?preview=20375514
 [1003]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737719
+[1004]: https://courseworks2.columbia.edu/courses/191258/files?preview=20448649
 
 ### Week 11: Schema (Apr 8 and 10)
 
