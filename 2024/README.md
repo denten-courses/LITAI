@@ -284,3 +284,8 @@ Lab.
 
   - ~"Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
   Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.~
+
+### Final Exam: Wed, May 8 2024
+
+Time: 1:10pm-4:00pm	
+Place: URI 326
