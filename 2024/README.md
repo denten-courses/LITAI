@@ -47,7 +47,7 @@ course's themes with the subject matter of their expertise.
 
 - 25%     Class & Online Participation
 - 25%     Midterm Project
-- 25%     Final Exam (Finals Week)
+- 25%     Final Exam (May 8, 1:10-4 PM, Uris 326)
 - 25%     Final Project
 
 All written assignments should be submitted to our Courseworks page.
