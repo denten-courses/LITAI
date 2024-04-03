@@ -243,20 +243,20 @@ Springfield, MA: The Home Correspondence School, 1920.
 
 ### Week 11: Schema (Apr 8 and 10)
 
-- Pages 127-150 from [*The Language And Thought Of The Child*][1001] (1926) by Jean Piaget.
+- Pages 127-150 from [*The Language And Thought Of The Child*][1011] (1926) by Jean Piaget.
 - Weizenbaum, Joseph. [“ELIZA—a Computer Program for the Study of Natural Language Communication
-  Between Man and Machine.”][1002] *Communication of the ACM* 9, no. 1 (January 1966): 36–45.
+  Between Man and Machine.”][1012] *Communication of the ACM* 9, no. 1 (January 1966): 36–45.
 - Klein, Sheldon, John F. Aeschlimann, Matthew A. Appelbaum, David F. Balsiger, Elizabeth J.
   Curtis, Mark Foster, S. David Kalish, et al. [“Modeling Propp and Levi-Strauss in a
-Meta-Symbolic Simulation System.”][1003] Technical Report. University of Wisconsin-Madison Department
+Meta-Symbolic Simulation System.”][1013] Technical Report. University of Wisconsin-Madison Department
 of Computer Sciences, 1974.
-- Meehan, James Richard. [“The Metanovel: Writing Stories by Computer.”][1004] New Haven, CT: Yale
+- Meehan, James Richard. [“The Metanovel: Writing Stories by Computer.”][1014] New Haven, CT: Yale
   University, Department of Computer Science, September 1976.
 
-  [1001]: https://courseworks2.columbia.edu/courses/191258/files?preview=20375383
-  [1002]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737742
-  [1003]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737763
-  [1004]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737760
+  [1011]: https://courseworks2.columbia.edu/courses/191258/files?preview=20375383
+  [1012]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737742
+  [1013]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737763
+  [1014]: https://courseworks2.columbia.edu/courses/191258/files?preview=19737760
 
 ## Part V: Probabilistic Methods
 
