@@ -262,9 +262,12 @@ of Computer Sciences, 1974.
 
 ### Week 12: Topic Modeling (Apr 15 and 17)
 
-- Markov
-- Firth
+- A. A. Markov, [“An Example of Statistical Analysis of the Text of Eugene Onegin Illustrating the Association of Trials into a Chain."][1201] Bulletin de l'Academie Imperiale des Sciences de St. Petersburg, ser. 6, vol. 7 (1913)
+- J. R. Firth, ["A Synopsis of Linguistic Theory."][1201] Studies in Lingusitic Analysis (1957)
 - Spark Jones
+
+[1201]: https://courseworks2.columbia.edu/courses/191258/files?preview=20526477
+[1202] https://courseworks2.columbia.edu/courses/191258/files?preview=20526933
 
 ### Week 13 (Apr 22 and 24)
 
