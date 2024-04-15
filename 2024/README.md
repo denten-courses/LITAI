@@ -274,7 +274,9 @@ of Computer Sciences, 1974.
 
 ### Week 13 (Apr 22 and 24)
 
-Lab.
+- Shannon, Claude. ["The Mathematical Theory of Communication."] In _The Mathematical Theory of Communication._ The University of Illinois Press, 1964.
+
+[1301]: https://courseworks2.columbia.edu/courses/191258/files?preview=20597263
 
 ### Week 14 (Apr 29)
  
