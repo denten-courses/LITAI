@@ -275,20 +275,23 @@ of Computer Sciences, 1974.
 ### Week 13 (Apr 22 and 24)
 
 - Shannon, Claude. ["The Mathematical Theory of Communication."][1301] In _The Mathematical Theory of Communication._ The University of Illinois Press, 1964.
-
-[1301]: https://courseworks2.columbia.edu/courses/191258/files?preview=20597263
-
-### Week 14 (Apr 29)
- 
-- Clark, Peter. [“Story Generation and Aviation Incident Representation.”][1301] ArXiv:1802.04818 [Cs],
+- - Clark, Peter. [“Story Generation and Aviation Incident Representation.”][1304] ArXiv:1802.04818 [Cs],
   1999.
 - Lakoff, George. [“Structural Complexity in Fairy Tales,”][1302] 1964 1972.  
 - Simmons, R., and J.  Slocum. [“Generating English Discourse from Semantic Networks.”][1303] *Commun.
   ACM* 15, no. 10 (October 1972): 891–905.
-  
-  [1301]: https://courseworks2.columbia.edu/files/13329473/download?download_frd=1
-  [1302]: https://courseworks2.columbia.edu/files/13329476/download?download_frd=1
-  [1303]: https://courseworks2.columbia.edu/files/13329392/download?download_frd=1
 
-  - ~"Introduction" in Fansler, Harriott Ely. [*Types of Prose Narratives: A Text-Book for the
-  Story Writer*][701]. Chicago, IL: Row, Peterson & Company, 1911.~
+[1301]: https://courseworks2.columbia.edu/courses/191258/files?preview=20597263
+[1304]: https://courseworks2.columbia.edu/files/13329473/download?download_frd=1
+[1302]: https://courseworks2.columbia.edu/files/13329476/download?download_frd=1
+[1303]: https://courseworks2.columbia.edu/files/13329392/download?download_frd=1
+
+### Week 14 (Apr 29)
+
+- Rosenblatt, F. (1958). ["The perceptron: A probabilistic model for information storage and organization in the brain."][1401] Psychological Review, 65(6), 386–408
+- Minsky, Marvin L. and Papert, Seymour A. (1969). ["Introduction"][1402] in Perceptrons: An Introduction to Computational Geometry. Cambridge: MIT Press.
+- McClelland, J. L., Rumelhart, D. E., Hinton, G. E. (1986). ["The Appeal of Parallel Distributed Processing"][1403] in Explorations in Parallel Distributed Processing. Cambridge: MIT Press. 
+
+[1401]: https://courseworks2.columbia.edu/courses/191258/files?preview=20663032
+[1402]: https://courseworks2.columbia.edu/courses/191258/files?preview=20663316
+[1403]: https://courseworks2.columbia.edu/courses/191258/files?preview=20663344
