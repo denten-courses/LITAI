@@ -275,8 +275,7 @@ of Computer Sciences, 1974.
 ### Week 13 (Apr 22 and 24)
 
 - Shannon, Claude. ["The Mathematical Theory of Communication."][1301] In _The Mathematical Theory of Communication._ The University of Illinois Press, 1964.
-- - Clark, Peter. [“Story Generation and Aviation Incident Representation.”][1304] ArXiv:1802.04818 [Cs],
-  1999.
+- Clark, Peter. [“Story Generation and Aviation Incident Representation.”][1304] ArXiv:1802.04818 [Cs],1999.
 - Lakoff, George. [“Structural Complexity in Fairy Tales,”][1302] 1964 1972.  
 - Simmons, R., and J.  Slocum. [“Generating English Discourse from Semantic Networks.”][1303] *Commun.
   ACM* 15, no. 10 (October 1972): 891–905.
