@@ -290,7 +290,7 @@ of Computer Sciences, 1974.
 
 - Rosenblatt, F. (1958). ["The perceptron: A probabilistic model for information storage and organization in the brain."][1401] Psychological Review, 65(6), 386–408
 - Minsky, Marvin L. and Papert, Seymour A. (1969). ["Introduction"][1402] in Perceptrons: An Introduction to Computational Geometry. Cambridge: MIT Press.
-- McClelland, J. L., Rumelhart, D. E., Hinton, G. E. (1986). ["The Appeal of Parallel Distributed Processing"][1403] in Explorations in Parallel Distributed Processing. Cambridge: MIT Press. 
+- McClelland, J. L., Rumelhart, D. E., Hinton, G. E. (1986). ["The Appeal of Parallel Distributed Processing"][1403] in Parallel Distributed Processing: Explorations in the Microstructure of Cognition. Cambridge: MIT Press. 
 
 [1401]: https://courseworks2.columbia.edu/courses/191258/files?preview=20663032
 [1402]: https://courseworks2.columbia.edu/courses/191258/files?preview=20663316
